@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" width="1200" height="600" role="img" aria-label="OnlyFans Creator Indices: the four scales at a glance" preserveAspectRatio="xMidYMid meet"><metadata><x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="onlyfansstatistics.com embed-image-metadata"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:plus="http://ns.useplus.org/ldf/xmp/1.0/" xmlns:Iptc4xmpCore="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:cc="http://creativecommons.org/ns#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmp:CreatorTool="onlyfansstatistics.com chart builder" photoshop:Credit="onlyfansstatistics.com" photoshop:Source="https://onlyfansstatistics.com/embed/indices-overview" xmpRights:Marked="True" xmpRights:WebStatement="https://onlyfansstatistics.com/license" Iptc4xmpExt:DigitalSourceType="http://cv.iptc.org/newscodes/digitalsourcetype/dataDrivenMedia" cc:license="https://creativecommons.org/licenses/by-sa/4.0/" cc:attributionName="onlyfansstatistics.com" cc:attributionURL="https://onlyfansstatistics.com/embed/indices-overview"><dc:title><rdf:Alt><rdf:li xml:lang="x-default">OnlyFans Creator Indices: the four scales at a glance</rdf:li></rdf:Alt></dc:title><dc:description><rdf:Alt><rdf:li xml:lang="x-default">The four index scales side by side: CVI, NPI and RMS from 0 to 100 with their interpretation bands, the Engagement Signal in posts per week</rdf:li></rdf:Alt></dc:description><dc:creator><rdf:Seq><rdf:li>onlyfansstatistics.com</rdf:li></rdf:Seq></dc:creator><dc:rights><rdf:Alt><rdf:li xml:lang="x-default">© 2026 onlyfansstatistics.com · CC BY-SA 4.0</rdf:li></rdf:Alt></dc:rights><dc:subject><rdf:Bag><rdf:li>OnlyFans</rdf:li><rdf:li>OnlyFans statistics</rdf:li><rdf:li>OnlyFans indices overview</rdf:li><rdf:li>OnlyFans Creator Indices: the four scales at a glance</rdf:li><rdf:li>indices</rdf:li><rdf:li>overview</rdf:li><rdf:li>creator economy</rdf:li><rdf:li>2026</rdf:li><rdf:li>data visualization</rdf:li><rdf:li>chart</rdf:li></rdf:Bag></dc:subject><xmpRights:UsageTerms><rdf:Alt><rdf:li xml:lang="x-default">Free to reuse under CC BY-SA 4.0: credit onlyfansstatistics.com and link to the source page.</rdf:li></rdf:Alt></xmpRights:UsageTerms><plus:Licensor><rdf:Seq><rdf:li rdf:parseType="Resource"><plus:LicensorName>onlyfansstatistics.com</plus:LicensorName><plus:LicensorURL>https://onlyfansstatistics.com/license</plus:LicensorURL></rdf:li></rdf:Seq></plus:Licensor><Iptc4xmpCore:CreatorContactInfo rdf:parseType="Resource"><Iptc4xmpCore:CiUrlWork>https://onlyfansstatistics.com/</Iptc4xmpCore:CiUrlWork></Iptc4xmpCore:CreatorContactInfo></rdf:Description></rdf:RDF></x:xmpmeta></metadata><title>OnlyFans Creator Indices: the four scales at a glance</title>
+  <desc>CVI, NPI and RMS run 0–100, the Engagement Signal counts posts per week · coloured bands = each index's score interpretation table</desc>
+  <style>
+    .bg { fill: #0f1c30; }
+    .grid { stroke: rgba(255,255,255,0.06); stroke-width: 1; }
+    .axis { stroke: rgba(255,255,255,0.14); stroke-width: 1; }
+    .ink { fill: #e8eef9; font-family: Inter, system-ui, sans-serif; }
+    .ink2 { fill: #b8c5db; font-family: Inter, system-ui, sans-serif; }
+    .ink3 { fill: #7c8aa3; font-family: Inter, system-ui, sans-serif; }
+    .num { font-family: "JetBrains Mono", ui-monospace, monospace; font-feature-settings: "tnum"; }
+    .title { font-size: 22px; font-weight: 700; font-family: Inter, system-ui, sans-serif; }
+    .subtitle { font-size: 14px; font-family: Inter, system-ui, sans-serif; }
+    .section { font-size: 12px; letter-spacing: 1px; font-family: "JetBrains Mono", ui-monospace, monospace; }
+    .label { font-size: 12px; font-family: Inter, system-ui, sans-serif; }
+    .label13 { font-size: 13px; font-family: Inter, system-ui, sans-serif; }
+    .label11 { font-size: 11px; font-family: Inter, system-ui, sans-serif; }
+    .legend { font-size: 13px; font-family: Inter, system-ui, sans-serif; }
+    .tick { font-size: 13px; font-family: "JetBrains Mono", ui-monospace, monospace; }
+    .val { font-size: 12px; font-family: "JetBrains Mono", ui-monospace, monospace; }
+    .val13 { font-size: 13px; font-family: "JetBrains Mono", ui-monospace, monospace; }
+    .valb { font-size: 13px; font-weight: 700; font-family: "JetBrains Mono", ui-monospace, monospace; }
+    .score { font-size: 16px; font-weight: 700; font-family: "JetBrains Mono", ui-monospace, monospace; }
+    .big { font-size: 14px; font-weight: 700; font-family: Inter, system-ui, sans-serif; }
+    .footer { font-size: 12px; font-family: Inter, system-ui, sans-serif; }
+  </style>
+  <rect width="100%" height="100%" class="bg" rx="14"/>
+  <text x="40" y="44" class="ink title">OnlyFans Creator Indices: the four scales at a glance</text>
+  <text x="40" y="66" class="ink2 subtitle">CVI, NPI and RMS run 0–100, the Engagement Signal counts posts per week · coloured bands = each index's score interpretation table</text>
+  <text x="40" y="140" class="big ink">Creator Velocity Index™</text>
+  <text x="40" y="160" class="label11 ink3">Revenue vs. niche median × cadence</text>
+  <rect x="251.0" y="135" width="180.0" height="30" rx="5" fill="#ff6b6b" opacity="0.9"/>
+  <text x="341" y="155" text-anchor="middle" class="valb" fill="#0f1c30">0–19</text>
+  <text x="341" y="126" text-anchor="middle" class="label ink2">Early-stage</text>
+  <rect x="433.0" y="135" width="180.0" height="30" rx="5" fill="#ffb347" opacity="0.9"/>
+  <text x="523" y="155" text-anchor="middle" class="valb" fill="#0f1c30">20–39</text>
+  <text x="523" y="126" text-anchor="middle" class="label ink2">Below median</text>
+  <rect x="615.0" y="135" width="180.0" height="30" rx="5" fill="#7c8aa3" opacity="0.9"/>
+  <text x="705" y="155" text-anchor="middle" class="valb" fill="#0f1c30">40–59</text>
+  <text x="705" y="126" text-anchor="middle" class="label ink2">Near median</text>
+  <rect x="797.0" y="135" width="180.0" height="30" rx="5" fill="#00b8d4" opacity="0.9"/>
+  <text x="887" y="155" text-anchor="middle" class="valb" fill="#0f1c30">60–79</text>
+  <text x="887" y="126" text-anchor="middle" class="label ink2">Above median</text>
+  <rect x="979.0" y="135" width="180.0" height="30" rx="5" fill="#4ade80" opacity="0.9"/>
+  <text x="1069" y="155" text-anchor="middle" class="valb" fill="#0f1c30">80–100</text>
+  <text x="1069" y="126" text-anchor="middle" class="label ink2">Top decile</text>
+  <text x="40" y="250" class="big ink">Niche Position Index™</text>
+  <text x="40" y="270" class="label11 ink3">Percentile within your niche</text>
+  <rect x="251.0" y="245" width="225.5" height="30" rx="5" fill="#ff6b6b" opacity="0.9"/>
+  <text x="363.75" y="265" text-anchor="middle" class="valb" fill="#0f1c30">0–24</text>
+  <text x="363.75" y="236" text-anchor="middle" class="label ink2">Long-tail</text>
+  <rect x="478.5" y="245" width="225.5" height="30" rx="5" fill="#ffb347" opacity="0.9"/>
+  <text x="591.25" y="265" text-anchor="middle" class="valb" fill="#0f1c30">25–49</text>
+  <text x="591.25" y="236" text-anchor="middle" class="label ink2">Lower half</text>
+  <rect x="706.0" y="245" width="225.5" height="30" rx="5" fill="#7c8aa3" opacity="0.9"/>
+  <text x="818.75" y="265" text-anchor="middle" class="valb" fill="#0f1c30">50–74</text>
+  <text x="818.75" y="236" text-anchor="middle" class="label ink2">Upper half</text>
+  <rect x="933.5" y="245" width="134.5" height="30" rx="5" fill="#00b8d4" opacity="0.9"/>
+  <text x="1000.75" y="265" text-anchor="middle" class="valb" fill="#0f1c30">75–89</text>
+  <text x="1000.75" y="236" text-anchor="middle" class="label ink2">Top quartile</text>
+  <rect x="1070.0" y="245" width="89.0" height="30" rx="5" fill="#4ade80" opacity="0.9"/>
+  <text x="1114.5" y="265" text-anchor="middle" class="valb" fill="#0f1c30">90–99</text>
+  <text x="1114.5" y="236" text-anchor="middle" class="label ink2">Top decile</text>
+  <text x="40" y="360" class="big ink">Revenue Mix Score™</text>
+  <text x="40" y="380" class="label11 ink3">Diversification of four streams</text>
+  <rect x="251.0" y="355" width="225.5" height="30" rx="5" fill="#ff6b6b" opacity="0.9"/>
+  <text x="363.75" y="375" text-anchor="middle" class="valb" fill="#0f1c30">0–24</text>
+  <text x="363.75" y="346" text-anchor="middle" class="label ink2">Single-stream</text>
+  <rect x="478.5" y="355" width="225.5" height="30" rx="5" fill="#ffb347" opacity="0.9"/>
+  <text x="591.25" y="375" text-anchor="middle" class="valb" fill="#0f1c30">25–49</text>
+  <text x="591.25" y="346" text-anchor="middle" class="label ink2">One stream dominates</text>
+  <rect x="706.0" y="355" width="225.5" height="30" rx="5" fill="#00b8d4" opacity="0.9"/>
+  <text x="818.75" y="375" text-anchor="middle" class="valb" fill="#0f1c30">50–74</text>
+  <text x="818.75" y="346" text-anchor="middle" class="label ink2">Balanced</text>
+  <rect x="933.5" y="355" width="225.5" height="30" rx="5" fill="#4ade80" opacity="0.9"/>
+  <text x="1046.25" y="375" text-anchor="middle" class="valb" fill="#0f1c30">75–100</text>
+  <text x="1046.25" y="346" text-anchor="middle" class="label ink2">Highly diversified</text>
+  <text x="40" y="470" class="big ink">Engagement Signal™</text>
+  <text x="40" y="490" class="label11 ink3">Posting cadence, posts per week</text>
+  <rect x="251.0" y="465" width="28.3" height="30" rx="5" fill="#7c8aa3" opacity="0.9"/>
+  <text x="265.16666666666663" y="485" text-anchor="middle" class="valb" fill="#0f1c30">0</text>
+  <text x="250" y="511" class="label11 ink3">dormant</text>
+  <rect x="281.3" y="465" width="89.0" height="30" rx="5" fill="#ff6b6b" opacity="0.9"/>
+  <text x="325.8333333333333" y="485" text-anchor="middle" class="valb" fill="#0f1c30">1–3</text>
+  <text x="325.8333333333333" y="456" text-anchor="middle" class="label ink2">Low cadence</text>
+  <rect x="372.3" y="465" width="89.0" height="30" rx="5" fill="#ffb347" opacity="0.9"/>
+  <text x="416.8333333333333" y="485" text-anchor="middle" class="valb" fill="#0f1c30">4–6</text>
+  <text x="416.8333333333333" y="456" text-anchor="middle" class="label ink2">Approaching</text>
+  <rect x="463.3" y="465" width="119.3" height="30" rx="5" fill="#4ade80" opacity="0.9"/>
+  <text x="523" y="485" text-anchor="middle" class="valb" fill="#0f1c30">7–10</text>
+  <text x="523" y="456" text-anchor="middle" class="label ink2">Sweet spot</text>
+  <rect x="584.7" y="465" width="149.7" height="30" rx="5" fill="#00b8d4" opacity="0.9"/>
+  <text x="659.5" y="485" text-anchor="middle" class="valb" fill="#0f1c30">11–15</text>
+  <text x="659.5" y="456" text-anchor="middle" class="label ink2">High cadence</text>
+  <rect x="736.3" y="465" width="301.3" height="30" rx="5" fill="#ffb347" opacity="0.9"/>
+  <text x="886.9999999999999" y="485" text-anchor="middle" class="valb" fill="#0f1c30">16–25</text>
+  <text x="886.9999999999999" y="456" text-anchor="middle" class="label ink2">Dilution risk</text>
+  <rect x="1039.7" y="465" width="119.3" height="30" rx="5" fill="#ff6b6b" opacity="0.9"/>
+  <text x="1099.3333333333333" y="485" text-anchor="middle" class="valb" fill="#0f1c30">26+</text>
+  <text x="1099.3333333333333" y="456" text-anchor="middle" class="label ink2">Burnout</text>
+
+  <text x="40" y="582" class="ink3 footer">Bands from the four methodology pages (metrics/creator-velocity-index · niche-position-index · revenue-mix-score · engagement-signal) · onlyfansstatistics.com · CC BY-SA 4.0</text>
+</svg>

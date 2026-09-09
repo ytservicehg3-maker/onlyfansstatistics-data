@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" width="1200" height="600" role="img" aria-label="Where OnlyFans creators actually live" preserveAspectRatio="xMidYMid meet"><metadata><x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="onlyfansstatistics.com embed-image-metadata"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:plus="http://ns.useplus.org/ldf/xmp/1.0/" xmlns:Iptc4xmpCore="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:cc="http://creativecommons.org/ns#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmp:CreatorTool="onlyfansstatistics.com chart builder" photoshop:Credit="onlyfansstatistics.com" photoshop:Source="https://onlyfansstatistics.com/creators-by-country" xmpRights:Marked="True" xmpRights:WebStatement="https://onlyfansstatistics.com/license" Iptc4xmpExt:DigitalSourceType="http://cv.iptc.org/newscodes/digitalsourcetype/dataDrivenMedia" cc:license="https://creativecommons.org/licenses/by-sa/4.0/" cc:attributionName="onlyfansstatistics.com" cc:attributionURL="https://onlyfansstatistics.com/creators-by-country"><dc:title><rdf:Alt><rdf:li xml:lang="x-default">OnlyFans creator count by country</rdf:li></rdf:Alt></dc:title><dc:description><rdf:Alt><rdf:li xml:lang="x-default">OnlyFans creator count by country</rdf:li></rdf:Alt></dc:description><dc:creator><rdf:Seq><rdf:li>onlyfansstatistics.com</rdf:li></rdf:Seq></dc:creator><dc:rights><rdf:Alt><rdf:li xml:lang="x-default">© 2026 onlyfansstatistics.com · CC BY-SA 4.0</rdf:li></rdf:Alt></dc:rights><dc:subject><rdf:Bag><rdf:li>OnlyFans</rdf:li><rdf:li>OnlyFans statistics</rdf:li><rdf:li>OnlyFans creators by country</rdf:li><rdf:li>OnlyFans Creators by Country</rdf:li><rdf:li>OnlyFans creator share by country of residence</rdf:li><rdf:li>OnlyFans Statistics</rdf:li><rdf:li>creators</rdf:li><rdf:li>country</rdf:li><rdf:li>creator economy</rdf:li><rdf:li>2026</rdf:li><rdf:li>data visualization</rdf:li><rdf:li>chart</rdf:li></rdf:Bag></dc:subject><xmpRights:UsageTerms><rdf:Alt><rdf:li xml:lang="x-default">Free to reuse under CC BY-SA 4.0: credit onlyfansstatistics.com and link to the source page.</rdf:li></rdf:Alt></xmpRights:UsageTerms><plus:Licensor><rdf:Seq><rdf:li rdf:parseType="Resource"><plus:LicensorName>onlyfansstatistics.com</plus:LicensorName><plus:LicensorURL>https://onlyfansstatistics.com/license</plus:LicensorURL></rdf:li></rdf:Seq></plus:Licensor><Iptc4xmpCore:CreatorContactInfo rdf:parseType="Resource"><Iptc4xmpCore:CiUrlWork>https://onlyfansstatistics.com/</Iptc4xmpCore:CiUrlWork></Iptc4xmpCore:CreatorContactInfo></rdf:Description></rdf:RDF></x:xmpmeta></metadata>
+  <title>Where OnlyFans creators actually live</title>
+  <desc>Estimated creator-account distribution · FY2024</desc>
+  <style>
+    .bg { fill: #0f1c30; }
+    .grid { stroke: rgba(255,255,255,0.06); stroke-width: 1; }
+    .axis { stroke: rgba(255,255,255,0.12); stroke-width: 1; }
+    .ink { fill: #e8eef9; font-family: Inter, system-ui, sans-serif; }
+    .ink2 { fill: #b8c5db; font-family: Inter, system-ui, sans-serif; }
+    .ink3 { fill: #7c8aa3; font-family: Inter, system-ui, sans-serif; }
+    .num { font-family: "JetBrains Mono", ui-monospace, monospace; font-feature-settings: "tnum"; }
+    .title { font-size: 22px; font-weight: 700; }
+    .subtitle { font-size: 14px; }
+    .axislabel { font-size: 13px; }
+    .valuelabel { font-size: 13px; font-weight: 600; }
+    .legend { font-size: 14px; }
+    .footer { font-size: 12px; }
+    .note { font-size: 11px; }
+  </style>
+  <rect width="100%" height="100%" class="bg" rx="14"/>
+  
+<text x="80" y="64" class="ink title">Where OnlyFans creators actually live</text>
+<text x="80" y="90" class="ink3 subtitle">Estimated creator-account distribution · FY2024</text>
+<path d="M 320 140 A 180 180 0 0 1 465.62305898749054 425.80134541264516 L 400.90169943749476 378.7785252292473 A 100 100 0 0 0 320 220 Z" fill="#36e1ff"/><path d="M 465.62305898749054 425.80134541264516 A 180 180 0 0 1 353.72863662543045 496.811705131164 L 338.73813145857247 418.2287250728689 A 100 100 0 0 0 400.90169943749476 378.7785252292473 Z" fill="#00b8d4"/><path d="M 353.72863662543045 496.811705131164 A 180 180 0 0 1 209.67673034246428 462.2279022276243 L 258.70929463470236 399.0155012375691 A 100 100 0 0 0 338.73813145857247 418.2287250728689 Z" fill="#7c8aa3"/><path d="M 209.67673034246428 462.2279022276243 A 180 180 0 0 1 144.33498285102547 359.2657834513777 L 222.40832380612528 341.8143241396543 A 100 100 0 0 0 258.70929463470236 399.0155012375691 Z" fill="#fbbf24"/><path d="M 144.33498285102547 359.2657834513777 A 180 180 0 0 1 143.18829486883604 286.2713633745696 L 221.77127492713112 301.2618685414276 A 100 100 0 0 0 222.40832380612528 341.8143241396543 Z" fill="#4ade80"/><path d="M 143.18829486883604 286.2713633745696 A 180 180 0 0 1 319.99999999999994 140 L 320 220 A 100 100 0 0 0 221.77127492713112 301.2618685414276 Z" fill="#f87171"/>
+<rect x="700" y="130" width="20" height="20" rx="3" fill="#36e1ff"/>
+<text x="730" y="145" class="ink legend">United States</text>
+<text x="1160" y="145" text-anchor="end" class="num ink2 legend">35.0%</text><rect x="700" y="166" width="20" height="20" rx="3" fill="#00b8d4"/>
+<text x="730" y="181" class="ink legend">United Kingdom</text>
+<text x="1160" y="181" text-anchor="end" class="num ink2 legend">12.0%</text><rect x="700" y="202" width="20" height="20" rx="3" fill="#7c8aa3"/>
+<text x="730" y="217" class="ink legend">Continental Europe</text>
+<text x="1160" y="217" text-anchor="end" class="num ink2 legend">13.5%</text><rect x="700" y="238" width="20" height="20" rx="3" fill="#fbbf24"/>
+<text x="730" y="253" class="ink legend">Latin America</text>
+<text x="1160" y="253" text-anchor="end" class="num ink2 legend">11.0%</text><rect x="700" y="274" width="20" height="20" rx="3" fill="#4ade80"/>
+<text x="730" y="289" class="ink legend">Asia-Pacific</text>
+<text x="1160" y="289" text-anchor="end" class="num ink2 legend">6.5%</text><rect x="700" y="310" width="20" height="20" rx="3" fill="#f87171"/>
+<text x="730" y="325" class="ink legend">Other / unknown</text>
+<text x="1160" y="325" text-anchor="end" class="num ink2 legend">22.0%</text>
+<text x="80" y="576" class="ink3 footer">Source: Triangulated: Fenix International, agency rosters, public roster sampling</text>
+<text x="1160" y="576" text-anchor="end" class="ink3 footer">onlyfansstatistics.com</text>
+
+</svg>

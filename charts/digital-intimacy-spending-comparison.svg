@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" width="1200" height="600" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, sans-serif" role="img" aria-label="Annual digital intimacy spend per user 2025"><metadata><x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="onlyfansstatistics.com embed-image-metadata"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:plus="http://ns.useplus.org/ldf/xmp/1.0/" xmlns:Iptc4xmpCore="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:cc="http://creativecommons.org/ns#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmp:CreatorTool="onlyfansstatistics.com chart builder" photoshop:Credit="onlyfansstatistics.com" photoshop:Source="https://onlyfansstatistics.com/research/digital-intimacy-economy-2025" xmpRights:Marked="True" xmpRights:WebStatement="https://onlyfansstatistics.com/license" Iptc4xmpExt:DigitalSourceType="http://cv.iptc.org/newscodes/digitalsourcetype/dataDrivenMedia" cc:license="https://creativecommons.org/licenses/by-sa/4.0/" cc:attributionName="onlyfansstatistics.com" cc:attributionURL="https://onlyfansstatistics.com/research/digital-intimacy-economy-2025"><dc:title><rdf:Alt><rdf:li xml:lang="x-default">OnlyFans annual digital intimacy spend per active user 2025</rdf:li></rdf:Alt></dc:title><dc:description><rdf:Alt><rdf:li xml:lang="x-default">Annual digital intimacy spend per active user 2025: live cam tipper $1,840, OnlyFans median fan $228, OnlyFans whale $4,720, sex doll owner $1,040 (5-year amortized), AI robot owner $3,400</rdf:li></rdf:Alt></dc:description><dc:creator><rdf:Seq><rdf:li>onlyfansstatistics.com</rdf:li></rdf:Seq></dc:creator><dc:rights><rdf:Alt><rdf:li xml:lang="x-default">© 2026 onlyfansstatistics.com · CC BY-SA 4.0</rdf:li></rdf:Alt></dc:rights><dc:subject><rdf:Bag><rdf:li>OnlyFans</rdf:li><rdf:li>OnlyFans statistics</rdf:li><rdf:li>OnlyFans digital intimacy spending comparison</rdf:li><rdf:li>OnlyFans vs Sex Dolls: The Hidden $16B Industry Map (2025)</rdf:li><rdf:li>digital</rdf:li><rdf:li>intimacy</rdf:li><rdf:li>spending</rdf:li><rdf:li>comparison</rdf:li><rdf:li>creator economy</rdf:li><rdf:li>2026</rdf:li><rdf:li>data visualization</rdf:li><rdf:li>chart</rdf:li></rdf:Bag></dc:subject><xmpRights:UsageTerms><rdf:Alt><rdf:li xml:lang="x-default">Free to reuse under CC BY-SA 4.0: credit onlyfansstatistics.com and link to the source page.</rdf:li></rdf:Alt></xmpRights:UsageTerms><plus:Licensor><rdf:Seq><rdf:li rdf:parseType="Resource"><plus:LicensorName>onlyfansstatistics.com</plus:LicensorName><plus:LicensorURL>https://onlyfansstatistics.com/license</plus:LicensorURL></rdf:li></rdf:Seq></plus:Licensor><Iptc4xmpCore:CreatorContactInfo rdf:parseType="Resource"><Iptc4xmpCore:CiUrlWork>https://onlyfansstatistics.com/</Iptc4xmpCore:CiUrlWork></Iptc4xmpCore:CreatorContactInfo></rdf:Description></rdf:RDF></x:xmpmeta></metadata>
+  <title>Annual digital intimacy spend per user — 2025</title>
+  <desc>Horizontal bar chart comparing average per-user annual spend across five digital intimacy verticals: live cam tippers, OnlyFans median fans, OnlyFans whales, sex doll owners (5-year amortized), and premium AI sex robot owners. Values in USD.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a1424"/>
+      <stop offset="100%" stop-color="#0d1a2e"/>
+    </linearGradient>
+    <linearGradient id="tealBar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#14b8a6" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#14b8a6" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="amberBar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#fbbf24" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#fbbf24" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="600" fill="url(#bg)"/>
+
+  <!-- Title -->
+  <text x="60" y="55" font-size="22" font-weight="700" fill="#e8eef9">Annual digital intimacy spend per user — 2025</text>
+  <text x="60" y="80" font-size="14" fill="#7c8aa3">Average per active user · USD · sources: triangulated public data</text>
+
+  <!-- Chart geometry:
+       Plot area: x=290 (after labels) to x=1080 (max bar end)
+       Max value = $4,720 → bar width = 790px max
+       Scale: 790 / 4720 = 0.1674px per $1
+       Bars: 50px tall, 24px gap, 5 bars
+       Top of first bar y=130
+  -->
+
+  <!-- X-axis grid lines + labels -->
+  <g font-size="12" fill="#7c8aa3" font-family="ui-monospace, monospace">
+    <line x1="290" y1="125" x2="290" y2="495" stroke="#1e2d44" stroke-width="1"/>
+    <line x1="457" y1="125" x2="457" y2="495" stroke="#1e2d44" stroke-width="1" stroke-dasharray="2 4"/>
+    <line x1="624" y1="125" x2="624" y2="495" stroke="#1e2d44" stroke-width="1" stroke-dasharray="2 4"/>
+    <line x1="792" y1="125" x2="792" y2="495" stroke="#1e2d44" stroke-width="1" stroke-dasharray="2 4"/>
+    <line x1="959" y1="125" x2="959" y2="495" stroke="#1e2d44" stroke-width="1" stroke-dasharray="2 4"/>
+    <text x="290" y="513" text-anchor="middle">$0</text>
+    <text x="457" y="513" text-anchor="middle">$1,000</text>
+    <text x="624" y="513" text-anchor="middle">$2,000</text>
+    <text x="792" y="513" text-anchor="middle">$3,000</text>
+    <text x="959" y="513" text-anchor="middle">$4,000</text>
+  </g>
+
+  <!-- Bar 1: Live cam tipper = $1,840 → width = 308 -->
+  <g>
+    <text x="280" y="160" text-anchor="end" font-size="13" font-weight="600" fill="#e8eef9" font-family="ui-monospace, monospace">Live cam tipper</text>
+    <text x="280" y="177" text-anchor="end" font-size="11" fill="#7c8aa3" font-family="ui-monospace, monospace">≥3 sessions/mo</text>
+    <rect x="290" y="138" width="308" height="44" fill="url(#tealBar)" rx="3"/>
+    <text x="608" y="167" font-size="14" font-weight="700" fill="#e8eef9" font-family="ui-monospace, monospace">$1,840</text>
+  </g>
+
+  <!-- Bar 2: OnlyFans paying fan median = $228 → width = 38 -->
+  <g>
+    <text x="280" y="222" text-anchor="end" font-size="13" font-weight="600" fill="#e8eef9" font-family="ui-monospace, monospace">OnlyFans paying fan</text>
+    <text x="280" y="239" text-anchor="end" font-size="11" fill="#7c8aa3" font-family="ui-monospace, monospace">median active</text>
+    <rect x="290" y="200" width="38" height="44" fill="url(#tealBar)" rx="3"/>
+    <text x="338" y="229" font-size="14" font-weight="700" fill="#e8eef9" font-family="ui-monospace, monospace">$228</text>
+  </g>
+
+  <!-- Bar 3: OnlyFans whale = $4,720 → width = 790 (max) — HIGHLIGHT amber -->
+  <g>
+    <text x="280" y="284" text-anchor="end" font-size="13" font-weight="600" fill="#fbbf24" font-family="ui-monospace, monospace">OnlyFans whale</text>
+    <text x="280" y="301" text-anchor="end" font-size="11" fill="#7c8aa3" font-family="ui-monospace, monospace">top 1% fan</text>
+    <rect x="290" y="262" width="790" height="44" fill="url(#amberBar)" rx="3"/>
+    <text x="1070" y="291" text-anchor="end" font-size="14" font-weight="800" fill="#0a1424" font-family="ui-monospace, monospace">$4,720</text>
+  </g>
+
+  <!-- Bar 4: Sex doll owner amortized = $1,040 → width = 174 -->
+  <g>
+    <text x="280" y="346" text-anchor="end" font-size="13" font-weight="600" fill="#e8eef9" font-family="ui-monospace, monospace">Sex doll owner</text>
+    <text x="280" y="363" text-anchor="end" font-size="11" fill="#7c8aa3" font-family="ui-monospace, monospace">5-yr amortized</text>
+    <rect x="290" y="324" width="174" height="44" fill="url(#tealBar)" rx="3"/>
+    <text x="474" y="353" font-size="14" font-weight="700" fill="#e8eef9" font-family="ui-monospace, monospace">$1,040</text>
+  </g>
+
+  <!-- Bar 5: AI sex robot premium = $3,400 → width = 569 -->
+  <g>
+    <text x="280" y="408" text-anchor="end" font-size="13" font-weight="600" fill="#e8eef9" font-family="ui-monospace, monospace">AI sex robot owner</text>
+    <text x="280" y="425" text-anchor="end" font-size="11" fill="#7c8aa3" font-family="ui-monospace, monospace">premium early adopter</text>
+    <rect x="290" y="386" width="569" height="44" fill="url(#tealBar)" rx="3"/>
+    <text x="869" y="415" font-size="14" font-weight="700" fill="#e8eef9" font-family="ui-monospace, monospace">$3,400</text>
+  </g>
+
+  <!-- Spacer / methodology note bottom-left -->
+  <g transform="translate(60, 470)">
+    <text font-size="13" font-weight="600" fill="#14b8a6" font-family="ui-monospace, monospace">METHODOLOGY</text>
+    <text y="22" font-size="12" fill="#b8c5db">Sex doll = $2,800 upfront + $480/yr accessories, averaged over 5y ownership.</text>
+    <text y="40" font-size="12" fill="#b8c5db">AI robot = premium-tier purchase + recurring AI/voice subscription (early-adopter cohort).</text>
+  </g>
+
+  <!-- Highlight callout: whale vs AI robot -->
+  <g transform="translate(720, 460)">
+    <rect x="0" y="0" width="430" height="80" rx="10" fill="#1e2d44" stroke="#fbbf24" stroke-width="1.5" stroke-opacity="0.5"/>
+    <text x="20" y="30" font-size="13" font-weight="600" fill="#fbbf24" font-family="ui-monospace, monospace">WHALE vs PREMIUM ROBOT</text>
+    <text x="20" y="58" font-size="22" font-weight="800" fill="#fbbf24" font-family="ui-monospace, monospace">2.6×</text>
+    <text x="80" y="58" font-size="12" fill="#b8c5db">OnlyFans whales out-spend AI-robot owners</text>
+  </g>
+
+  <!-- Bottom: attribution + branding -->
+  <text x="60" y="585" font-size="11" fill="#7c8aa3">Source: onlyfansstatistics.com analysis · triangulated public data (cam platforms, doll retailers, OF agency panels)</text>
+  <text x="1140" y="585" text-anchor="end" font-size="11" font-weight="600" fill="#36e1ff" font-family="ui-monospace, monospace">onlyfansstatistics.com/research/digital-intimacy-economy-2025</text>
+</svg>

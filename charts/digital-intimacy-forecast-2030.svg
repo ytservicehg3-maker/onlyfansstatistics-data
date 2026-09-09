@@ -1,0 +1,150 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" width="1200" height="600" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, sans-serif" role="img" aria-label="Digital intimacy industry forecast 2025 to 2030"><metadata><x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="onlyfansstatistics.com embed-image-metadata"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:plus="http://ns.useplus.org/ldf/xmp/1.0/" xmlns:Iptc4xmpCore="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:cc="http://creativecommons.org/ns#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmp:CreatorTool="onlyfansstatistics.com chart builder" photoshop:Credit="onlyfansstatistics.com" photoshop:Source="https://onlyfansstatistics.com/research/digital-intimacy-economy-2025" xmpRights:Marked="True" xmpRights:WebStatement="https://onlyfansstatistics.com/license" Iptc4xmpExt:DigitalSourceType="http://cv.iptc.org/newscodes/digitalsourcetype/dataDrivenMedia" cc:license="https://creativecommons.org/licenses/by-sa/4.0/" cc:attributionName="onlyfansstatistics.com" cc:attributionURL="https://onlyfansstatistics.com/research/digital-intimacy-economy-2025"><dc:title><rdf:Alt><rdf:li xml:lang="x-default">OnlyFans digital intimacy industry forecast 2025-2030 by vertical</rdf:li></rdf:Alt></dc:title><dc:description><rdf:Alt><rdf:li xml:lang="x-default">Digital intimacy industry forecast 2025-2030 by vertical: Live cams stabilizing at $8B, OnlyFans growing to $11B, sex dolls + AI robots overtaking cams by 2030 to reach $8.6B combined</rdf:li></rdf:Alt></dc:description><dc:creator><rdf:Seq><rdf:li>onlyfansstatistics.com</rdf:li></rdf:Seq></dc:creator><dc:rights><rdf:Alt><rdf:li xml:lang="x-default">© 2026 onlyfansstatistics.com · CC BY-SA 4.0</rdf:li></rdf:Alt></dc:rights><dc:subject><rdf:Bag><rdf:li>OnlyFans</rdf:li><rdf:li>OnlyFans statistics</rdf:li><rdf:li>OnlyFans digital intimacy forecast 2030</rdf:li><rdf:li>OnlyFans vs Sex Dolls: The Hidden $16B Industry Map (2025)</rdf:li><rdf:li>digital</rdf:li><rdf:li>intimacy</rdf:li><rdf:li>forecast</rdf:li><rdf:li>creator economy</rdf:li><rdf:li>2026</rdf:li><rdf:li>data visualization</rdf:li><rdf:li>chart</rdf:li></rdf:Bag></dc:subject><xmpRights:UsageTerms><rdf:Alt><rdf:li xml:lang="x-default">Free to reuse under CC BY-SA 4.0: credit onlyfansstatistics.com and link to the source page.</rdf:li></rdf:Alt></xmpRights:UsageTerms><plus:Licensor><rdf:Seq><rdf:li rdf:parseType="Resource"><plus:LicensorName>onlyfansstatistics.com</plus:LicensorName><plus:LicensorURL>https://onlyfansstatistics.com/license</plus:LicensorURL></rdf:li></rdf:Seq></plus:Licensor><Iptc4xmpCore:CreatorContactInfo rdf:parseType="Resource"><Iptc4xmpCore:CiUrlWork>https://onlyfansstatistics.com/</Iptc4xmpCore:CiUrlWork></Iptc4xmpCore:CreatorContactInfo></rdf:Description></rdf:RDF></x:xmpmeta></metadata>
+  <title>Digital intimacy industry forecast 2025-2030</title>
+  <desc>Multi-line forecast chart showing global revenue in USD billions for three verticals: live cams (saturating from $6.2B to $8.0B), OnlyFans gross fan payments (steady growth from $7.8B to $11.0B), and sex dolls plus AI robots (rapid acceleration from $2.4B to $8.6B). Combined market reaches $27.6B by 2030.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a1424"/>
+      <stop offset="100%" stop-color="#0d1a2e"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="600" fill="url(#bg)"/>
+
+  <!-- Title -->
+  <text x="60" y="55" font-size="22" font-weight="700" fill="#e8eef9">Digital intimacy industry forecast 2025-2030</text>
+  <text x="60" y="80" font-size="14" fill="#7c8aa3">Global revenue per vertical · USD billions</text>
+
+  <!-- Plot geometry:
+       X: 2025=140, 2026=320, 2027=500, 2028=680, 2029=860, 2030=1040
+         (step 180 px)
+       Y baseline: 430 (= $0B)
+       Y top: 120 (= $12B)
+       Scale: 310 / 12 = 25.83 px per $B
+
+       Live cams (cyan #36e1ff):
+         2025 $6.2 → 430 - 6.2*25.83 = 430 - 160.1 = 270
+         2026 $6.8 → 430 - 175.6 = 254
+         2027 $7.3 → 430 - 188.6 = 241
+         2028 $7.7 → 430 - 198.9 = 231
+         2029 $7.9 → 430 - 204.1 = 226
+         2030 $8.0 → 430 - 206.6 = 223
+
+       OnlyFans (amber #fbbf24):
+         2025 $7.8 → 430 - 201.5 = 229
+         2026 $8.5 → 430 - 219.6 = 210
+         2027 $9.2 → 430 - 237.6 = 192
+         2028 $9.9 → 430 - 255.7 = 174
+         2029 $10.5 → 430 - 271.2 = 159
+         2030 $11.0 → 430 - 284.1 = 146
+
+       Dolls/AI (red #f87171):
+         2025 $2.4 → 430 - 62.0 = 368
+         2026 $3.1 → 430 - 80.1 = 350
+         2027 $4.0 → 430 - 103.3 = 327
+         2028 $5.3 → 430 - 136.9 = 293
+         2029 $6.8 → 430 - 175.6 = 254
+         2030 $8.6 → 430 - 222.1 = 208
+  -->
+
+  <!-- Y-axis labels & grid lines -->
+  <g font-size="12" fill="#7c8aa3" font-family="ui-monospace, monospace">
+    <text x="55" y="125" text-anchor="end">$12B</text>
+    <line x1="60" y1="120" x2="1140" y2="120" stroke="#1e2d44" stroke-width="1" stroke-dasharray="2 4"/>
+    <text x="55" y="203" text-anchor="end">$9B</text>
+    <line x1="60" y1="198" x2="1140" y2="198" stroke="#1e2d44" stroke-width="1" stroke-dasharray="2 4"/>
+    <text x="55" y="280" text-anchor="end">$6B</text>
+    <line x1="60" y1="275" x2="1140" y2="275" stroke="#1e2d44" stroke-width="1" stroke-dasharray="2 4"/>
+    <text x="55" y="358" text-anchor="end">$3B</text>
+    <line x1="60" y1="353" x2="1140" y2="353" stroke="#1e2d44" stroke-width="1" stroke-dasharray="2 4"/>
+    <text x="55" y="435" text-anchor="end">$0B</text>
+    <line x1="60" y1="430" x2="1140" y2="430" stroke="#1e2d44" stroke-width="1"/>
+  </g>
+
+  <!-- Live cams line (cyan) -->
+  <path d="M140,270 L320,254 L500,241 L680,231 L860,226 L1040,223" fill="none" stroke="#36e1ff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- OnlyFans line (amber) -->
+  <path d="M140,229 L320,210 L500,192 L680,174 L860,159 L1040,146" fill="none" stroke="#fbbf24" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Dolls/AI line (red) — dashed near the crossover to suggest forecast -->
+  <path d="M140,368 L320,350 L500,327 L680,293 L860,254 L1040,208" fill="none" stroke="#f87171" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Data dots — live cams (label BELOW dot to avoid overlap with $8.6B dolls label) -->
+  <g>
+    <circle cx="140" cy="270" r="5" fill="#36e1ff" stroke="#0d1a2e" stroke-width="2"/>
+    <circle cx="320" cy="254" r="5" fill="#36e1ff" stroke="#0d1a2e" stroke-width="2"/>
+    <circle cx="500" cy="241" r="5" fill="#36e1ff" stroke="#0d1a2e" stroke-width="2"/>
+    <circle cx="680" cy="231" r="5" fill="#36e1ff" stroke="#0d1a2e" stroke-width="2"/>
+    <circle cx="860" cy="226" r="5" fill="#36e1ff" stroke="#0d1a2e" stroke-width="2"/>
+    <circle cx="1040" cy="223" r="7" fill="#36e1ff" stroke="#0d1a2e" stroke-width="2"/>
+    <text x="140" y="258" text-anchor="middle" font-size="11" font-weight="700" fill="#e8eef9" font-family="ui-monospace, monospace">$6.2B</text>
+    <text x="1040" y="243" text-anchor="middle" font-size="12" font-weight="700" fill="#36e1ff" font-family="ui-monospace, monospace">$8.0B</text>
+  </g>
+
+  <!-- Data dots — OnlyFans -->
+  <g>
+    <circle cx="140" cy="229" r="5" fill="#fbbf24" stroke="#0d1a2e" stroke-width="2"/>
+    <circle cx="320" cy="210" r="5" fill="#fbbf24" stroke="#0d1a2e" stroke-width="2"/>
+    <circle cx="500" cy="192" r="5" fill="#fbbf24" stroke="#0d1a2e" stroke-width="2"/>
+    <circle cx="680" cy="174" r="5" fill="#fbbf24" stroke="#0d1a2e" stroke-width="2"/>
+    <circle cx="860" cy="159" r="5" fill="#fbbf24" stroke="#0d1a2e" stroke-width="2"/>
+    <circle cx="1040" cy="146" r="7" fill="#fbbf24" stroke="#0d1a2e" stroke-width="2"/>
+    <text x="140" y="219" text-anchor="middle" font-size="11" font-weight="700" fill="#e8eef9" font-family="ui-monospace, monospace">$7.8B</text>
+    <text x="1040" y="136" text-anchor="middle" font-size="12" font-weight="700" fill="#fbbf24" font-family="ui-monospace, monospace">$11.0B</text>
+  </g>
+
+  <!-- Data dots — Dolls/AI -->
+  <g>
+    <circle cx="140" cy="368" r="5" fill="#f87171" stroke="#0d1a2e" stroke-width="2"/>
+    <circle cx="320" cy="350" r="5" fill="#f87171" stroke="#0d1a2e" stroke-width="2"/>
+    <circle cx="500" cy="327" r="5" fill="#f87171" stroke="#0d1a2e" stroke-width="2"/>
+    <circle cx="680" cy="293" r="5" fill="#f87171" stroke="#0d1a2e" stroke-width="2"/>
+    <circle cx="860" cy="254" r="5" fill="#f87171" stroke="#0d1a2e" stroke-width="2"/>
+    <circle cx="1040" cy="208" r="7" fill="#f87171" stroke="#0d1a2e" stroke-width="2"/>
+    <text x="140" y="385" text-anchor="middle" font-size="11" font-weight="700" fill="#e8eef9" font-family="ui-monospace, monospace">$2.4B</text>
+    <text x="1040" y="198" text-anchor="middle" font-size="12" font-weight="700" fill="#f87171" font-family="ui-monospace, monospace">$8.6B</text>
+  </g>
+
+  <!-- X-axis labels -->
+  <g font-size="13" font-weight="600" fill="#b8c5db" font-family="ui-monospace, monospace">
+    <text x="140" y="453" text-anchor="middle">2025</text>
+    <text x="320" y="453" text-anchor="middle">2026</text>
+    <text x="500" y="453" text-anchor="middle">2027</text>
+    <text x="680" y="453" text-anchor="middle">2028</text>
+    <text x="860" y="453" text-anchor="middle">2029</text>
+    <text x="1040" y="453" text-anchor="middle">2030</text>
+  </g>
+
+  <!-- Crossover annotation: dolls/AI overtake live cams between 2029 and 2030.
+       Box positioned mid-chart, dashed line points to the actual crossover region (x≈950, between 2029 and 2030 dots).
+       At 2029: cams=$7.9B > dolls=$6.8B. At 2030: dolls=$8.6B > cams=$8.0B. Lines cross between these years. -->
+  <g transform="translate(620, 130)" font-family="ui-monospace, monospace">
+    <line x1="220" y1="50" x2="330" y2="80" stroke="#f87171" stroke-width="1.5" stroke-dasharray="3 3"/>
+    <rect x="0" y="0" width="240" height="42" rx="8" fill="#1e2d44" stroke="#f87171" stroke-width="1.2" stroke-opacity="0.6"/>
+    <text x="12" y="17" font-size="11" font-weight="600" fill="#f87171">CROSSOVER 2029 → 2030</text>
+    <text x="12" y="34" font-size="12" fill="#e8eef9">AI/dolls overtake live cams</text>
+  </g>
+
+  <!-- Legend -->
+  <g transform="translate(60, 495)" font-family="ui-monospace, monospace">
+    <rect x="0" y="0" width="14" height="14" fill="#36e1ff" rx="2"/>
+    <text x="22" y="12" font-size="12" fill="#b8c5db">Live cams (saturating)</text>
+    <rect x="220" y="0" width="14" height="14" fill="#fbbf24" rx="2"/>
+    <text x="242" y="12" font-size="12" fill="#b8c5db">OnlyFans (gross fan payments)</text>
+    <rect x="490" y="0" width="14" height="14" fill="#f87171" rx="2"/>
+    <text x="512" y="12" font-size="12" fill="#b8c5db">Sex dolls + AI robots (accelerating)</text>
+  </g>
+
+  <!-- Highlight callout: combined market 2030 -->
+  <g transform="translate(720, 525)">
+    <rect x="0" y="0" width="430" height="44" rx="10" fill="#1e2d44" stroke="#fbbf24" stroke-width="1.5" stroke-opacity="0.5"/>
+    <text x="20" y="20" font-size="11" font-weight="600" fill="#fbbf24" font-family="ui-monospace, monospace">2030 COMBINED MARKET</text>
+    <text x="20" y="37" font-size="18" font-weight="800" fill="#fbbf24" font-family="ui-monospace, monospace">$27.6B</text>
+    <text x="120" y="37" font-size="11" fill="#b8c5db">live cams + OnlyFans + dolls/AI · global</text>
+  </g>
+
+  <!-- Bottom: attribution + branding -->
+  <text x="60" y="585" font-size="11" fill="#7c8aa3">Source: onlyfansstatistics.com forecast model · base year 2025 actuals + CAGR projections by vertical</text>
+  <text x="1140" y="585" text-anchor="end" font-size="11" font-weight="600" fill="#36e1ff" font-family="ui-monospace, monospace">onlyfansstatistics.com/research/digital-intimacy-economy-2025</text>
+</svg>

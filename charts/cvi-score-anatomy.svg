@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" width="1200" height="600" role="img" aria-label="Creator Velocity Index™: how revenue and cadence become a 0–100 score" preserveAspectRatio="xMidYMid meet"><metadata><x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="onlyfansstatistics.com embed-image-metadata"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:plus="http://ns.useplus.org/ldf/xmp/1.0/" xmlns:Iptc4xmpCore="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:cc="http://creativecommons.org/ns#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmp:CreatorTool="onlyfansstatistics.com chart builder" photoshop:Credit="onlyfansstatistics.com" photoshop:Source="https://onlyfansstatistics.com/embed/cvi-score-anatomy" xmpRights:Marked="True" xmpRights:WebStatement="https://onlyfansstatistics.com/license" Iptc4xmpExt:DigitalSourceType="http://cv.iptc.org/newscodes/digitalsourcetype/dataDrivenMedia" cc:license="https://creativecommons.org/licenses/by-sa/4.0/" cc:attributionName="onlyfansstatistics.com" cc:attributionURL="https://onlyfansstatistics.com/embed/cvi-score-anatomy"><dc:title><rdf:Alt><rdf:li xml:lang="x-default">Creator Velocity Index™: how revenue and cadence become a 0–100 score</rdf:li></rdf:Alt></dc:title><dc:description><rdf:Alt><rdf:li xml:lang="x-default">CVI score curves for 3, 7 and 15 posts per week against revenue as a multiple of the niche median, with the five interpretation bands</rdf:li></rdf:Alt></dc:description><dc:creator><rdf:Seq><rdf:li>onlyfansstatistics.com</rdf:li></rdf:Seq></dc:creator><dc:rights><rdf:Alt><rdf:li xml:lang="x-default">© 2026 onlyfansstatistics.com · CC BY-SA 4.0</rdf:li></rdf:Alt></dc:rights><dc:subject><rdf:Bag><rdf:li>OnlyFans</rdf:li><rdf:li>OnlyFans statistics</rdf:li><rdf:li>OnlyFans cvi score anatomy</rdf:li><rdf:li>Creator Velocity Index™: how revenue and cadence become a 0–100 score</rdf:li><rdf:li>score</rdf:li><rdf:li>anatomy</rdf:li><rdf:li>creator economy</rdf:li><rdf:li>2026</rdf:li><rdf:li>data visualization</rdf:li><rdf:li>chart</rdf:li></rdf:Bag></dc:subject><xmpRights:UsageTerms><rdf:Alt><rdf:li xml:lang="x-default">Free to reuse under CC BY-SA 4.0: credit onlyfansstatistics.com and link to the source page.</rdf:li></rdf:Alt></xmpRights:UsageTerms><plus:Licensor><rdf:Seq><rdf:li rdf:parseType="Resource"><plus:LicensorName>onlyfansstatistics.com</plus:LicensorName><plus:LicensorURL>https://onlyfansstatistics.com/license</plus:LicensorURL></rdf:li></rdf:Seq></plus:Licensor><Iptc4xmpCore:CreatorContactInfo rdf:parseType="Resource"><Iptc4xmpCore:CiUrlWork>https://onlyfansstatistics.com/</Iptc4xmpCore:CiUrlWork></Iptc4xmpCore:CreatorContactInfo></rdf:Description></rdf:RDF></x:xmpmeta></metadata>
+  <title>Creator Velocity Index™: how revenue and cadence become a 0–100 score</title>
+  <desc>CVI = clamp(50 × log₁₀(gross ÷ niche median + 1) × cadence factor + 30, 0, 100) · cadence factor = 1 − |posts/week − 7| ÷ 30</desc>
+  <style>
+    .bg { fill: #0f1c30; }
+    .grid { stroke: rgba(255,255,255,0.06); stroke-width: 1; }
+    .axis { stroke: rgba(255,255,255,0.14); stroke-width: 1; }
+    .ink { fill: #e8eef9; font-family: Inter, system-ui, sans-serif; }
+    .ink2 { fill: #b8c5db; font-family: Inter, system-ui, sans-serif; }
+    .ink3 { fill: #7c8aa3; font-family: Inter, system-ui, sans-serif; }
+    .num { font-family: "JetBrains Mono", ui-monospace, monospace; font-feature-settings: "tnum"; }
+    .title { font-size: 22px; font-weight: 700; font-family: Inter, system-ui, sans-serif; }
+    .subtitle { font-size: 14px; font-family: Inter, system-ui, sans-serif; }
+    .section { font-size: 12px; letter-spacing: 1px; font-family: "JetBrains Mono", ui-monospace, monospace; }
+    .label { font-size: 12px; font-family: Inter, system-ui, sans-serif; }
+    .label13 { font-size: 13px; font-family: Inter, system-ui, sans-serif; }
+    .label11 { font-size: 11px; font-family: Inter, system-ui, sans-serif; }
+    .legend { font-size: 13px; font-family: Inter, system-ui, sans-serif; }
+    .tick { font-size: 13px; font-family: "JetBrains Mono", ui-monospace, monospace; }
+    .val { font-size: 12px; font-family: "JetBrains Mono", ui-monospace, monospace; }
+    .val13 { font-size: 13px; font-family: "JetBrains Mono", ui-monospace, monospace; }
+    .valb { font-size: 13px; font-weight: 700; font-family: "JetBrains Mono", ui-monospace, monospace; }
+    .score { font-size: 16px; font-weight: 700; font-family: "JetBrains Mono", ui-monospace, monospace; }
+    .big { font-size: 14px; font-weight: 700; font-family: Inter, system-ui, sans-serif; }
+    .footer { font-size: 12px; font-family: Inter, system-ui, sans-serif; }
+  </style>
+  <rect width="100%" height="100%" class="bg" rx="14"/>
+  <text x="40" y="44" class="ink title">Creator Velocity Index™: how revenue and cadence become a 0–100 score</text>
+  <text x="40" y="66" class="ink2 subtitle">CVI = clamp(50 × log₁₀(gross ÷ niche median + 1) × cadence factor + 30, 0, 100) · cadence factor = 1 − |posts/week − 7| ÷ 30</text>
+  <rect x="70" y="100" width="930" height="80" fill="#4ade80" opacity="0.09"/>
+  <text x="1012" y="144" class="label" fill="#4ade80">Top-decile velocity</text>
+  <rect x="70" y="180" width="930" height="80" fill="#00b8d4" opacity="0.09"/>
+  <text x="1012" y="224" class="label" fill="#00b8d4">Above niche median</text>
+  <rect x="70" y="260" width="930" height="80" fill="#7c8aa3" opacity="0.09"/>
+  <text x="1012" y="304" class="label" fill="#7c8aa3">Near niche median</text>
+  <rect x="70" y="340" width="930" height="80" fill="#ffb347" opacity="0.09"/>
+  <text x="1012" y="384" class="label" fill="#ffb347">Below median</text>
+  <rect x="70" y="420" width="930" height="80" fill="#ff6b6b" opacity="0.09"/>
+  <text x="1012" y="464" class="label" fill="#ff6b6b">Early-stage / struggling</text>
+  <line x1="70" y1="500" x2="1000" y2="500" class="grid"/>
+  <text x="58" y="504" text-anchor="end" class="tick ink3">0</text>
+  <line x1="70" y1="420" x2="1000" y2="420" class="grid"/>
+  <text x="58" y="424" text-anchor="end" class="tick ink3">20</text>
+  <line x1="70" y1="340" x2="1000" y2="340" class="grid"/>
+  <text x="58" y="344" text-anchor="end" class="tick ink3">40</text>
+  <line x1="70" y1="260" x2="1000" y2="260" class="grid"/>
+  <text x="58" y="264" text-anchor="end" class="tick ink3">60</text>
+  <line x1="70" y1="180" x2="1000" y2="180" class="grid"/>
+  <text x="58" y="184" text-anchor="end" class="tick ink3">80</text>
+  <line x1="70" y1="100" x2="1000" y2="100" class="grid"/>
+  <text x="58" y="104" text-anchor="end" class="tick ink3">100</text>
+  <line x1="70" y1="100" x2="70" y2="500" class="grid"/>
+  <text x="70" y="522" text-anchor="middle" class="tick ink3">0.1×</text>
+  <line x1="183.01743725063858" y1="100" x2="183.01743725063858" y2="500" class="grid"/>
+  <text x="183.01743725063858" y="522" text-anchor="middle" class="tick ink3">0.2×</text>
+  <line x1="332.4183627644272" y1="100" x2="332.4183627644272" y2="500" class="grid"/>
+  <text x="332.4183627644272" y="522" text-anchor="middle" class="tick ink3">0.5×</text>
+  <line x1="445.43580001506575" y1="100" x2="445.43580001506575" y2="500" class="grid"/>
+  <text x="445.43580001506575" y="522" text-anchor="middle" class="tick ink3">1×</text>
+  <line x1="558.4532372657043" y1="100" x2="558.4532372657043" y2="500" class="grid"/>
+  <text x="558.4532372657043" y="522" text-anchor="middle" class="tick ink3">2×</text>
+  <line x1="707.854162779493" y1="100" x2="707.854162779493" y2="500" class="grid"/>
+  <text x="707.854162779493" y="522" text-anchor="middle" class="tick ink3">5×</text>
+  <line x1="820.8716000301315" y1="100" x2="820.8716000301315" y2="500" class="grid"/>
+  <text x="820.8716000301315" y="522" text-anchor="middle" class="tick ink3">10×</text>
+  <line x1="933.88903728077" y1="100" x2="933.88903728077" y2="500" class="grid"/>
+  <text x="933.88903728077" y="522" text-anchor="middle" class="tick ink3">20×</text>
+  <line x1="70" y1="500" x2="1000" y2="500" class="axis"/>
+  <text x="535" y="548" text-anchor="middle" class="label ink3">Monthly gross revenue as a multiple of the niche median (log scale)</text>
+  <line x1="445.43580001506575" y1="100" x2="445.43580001506575" y2="500" stroke="#e8eef9" stroke-width="1.5" stroke-dasharray="5 4" opacity="0.6"/>
+  <text x="445.43580001506575" y="92" text-anchor="middle" class="label ink2">1× = niche median</text>
+  <circle cx="445.43580001506575" cy="319.79400086720375" r="5" fill="#e8eef9"/>
+  <text x="433.43580001506575" y="299.79400086720375" text-anchor="end" class="label ink">CVI 45 at the niche median with 7 posts/week</text>
+  <polyline points="70.0,371.7 75.8,371.4 81.6,371.1 87.4,370.8 93.3,370.5 99.1,370.2 104.9,369.9 110.7,369.5 116.5,369.2 122.3,368.8 128.1,368.4 133.9,368.0 139.8,367.6 145.6,367.2 151.4,366.8 157.2,366.3 163.0,365.9 168.8,365.4 174.6,364.9 180.4,364.4 186.3,363.9 192.1,363.3 197.9,362.8 203.7,362.2 209.5,361.6 215.3,361.0 221.1,360.4 226.9,359.8 232.7,359.1 238.6,358.5 244.4,357.8 250.2,357.1 256.0,356.4 261.8,355.6 267.6,354.8 273.4,354.0 279.3,353.2 285.1,352.4 290.9,351.6 296.7,350.7 302.5,349.8 308.3,348.9 314.1,347.9 319.9,346.9 325.8,345.9 331.6,344.9 337.4,343.9 343.2,342.8 349.0,341.7 354.8,340.6 360.6,339.5 366.4,338.3 372.3,337.1 378.1,335.9 383.9,334.7 389.7,333.4 395.5,332.1 401.3,330.8 407.1,329.4 412.9,328.0 418.7,326.6 424.6,325.2 430.4,323.7 436.2,322.2 442.0,320.7 447.8,319.2 453.6,317.6 459.4,316.0 465.3,314.4 471.1,312.7 476.9,311.0 482.7,309.3 488.5,307.6 494.3,305.8 500.1,304.0 505.9,302.2 511.7,300.3 517.6,298.5 523.4,296.6 529.2,294.7 535.0,292.7 540.8,290.7 546.6,288.7 552.4,286.7 558.3,284.6 564.1,282.6 569.9,280.5 575.7,278.3 581.5,276.2 587.3,274.0 593.1,271.8 598.9,269.6 604.8,267.4 610.6,265.1 616.4,262.8 622.2,260.5 628.0,258.2 633.8,255.9 639.6,253.5 645.4,251.1 651.3,248.7 657.1,246.3 662.9,243.8 668.7,241.4 674.5,238.9 680.3,236.4 686.1,233.9 691.9,231.4 697.7,228.8 703.6,226.3 709.4,223.7 715.2,221.1 721.0,218.5 726.8,215.9 732.6,213.2 738.4,210.6 744.3,207.9 750.1,205.3 755.9,202.6 761.7,199.9 767.5,197.1 773.3,194.4 779.1,191.7 784.9,188.9 790.8,186.2 796.6,183.4 802.4,180.6 808.2,177.8 814.0,175.0 819.8,172.2 825.6,169.4 831.4,166.6 837.2,163.8 843.1,160.9 848.9,158.1 854.7,155.2 860.5,152.3 866.3,149.5 872.1,146.6 877.9,143.7 883.8,140.8 889.6,137.9 895.4,135.0 901.2,132.1 907.0,129.1 912.8,126.2 918.6,123.3 924.4,120.3 930.2,117.4 936.1,114.5 941.9,111.5 947.7,108.5 953.5,105.6 959.3,102.6 965.1,100.0 970.9,100.0 976.8,100.0 982.6,100.0 988.4,100.0 994.2,100.0 1000.0,100.0" fill="none" stroke="#36e1ff" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+  <polyline points="70.0,372.8 75.8,372.6 81.6,372.3 87.4,372.1 93.3,371.8 99.1,371.5 104.9,371.2 110.7,370.9 116.5,370.6 122.3,370.3 128.1,369.9 133.9,369.6 139.8,369.3 145.6,368.9 151.4,368.5 157.2,368.1 163.0,367.7 168.8,367.3 174.6,366.9 180.4,366.5 186.3,366.0 192.1,365.6 197.9,365.1 203.7,364.6 209.5,364.1 215.3,363.6 221.1,363.0 226.9,362.5 232.7,361.9 238.6,361.3 244.4,360.8 250.2,360.1 256.0,359.5 261.8,358.9 267.6,358.2 273.4,357.5 279.3,356.8 285.1,356.1 290.9,355.3 296.7,354.6 302.5,353.8 308.3,353.0 314.1,352.2 319.9,351.3 325.8,350.5 331.6,349.6 337.4,348.7 343.2,347.8 349.0,346.8 354.8,345.9 360.6,344.9 366.4,343.9 372.3,342.8 378.1,341.8 383.9,340.7 389.7,339.6 395.5,338.5 401.3,337.3 407.1,336.1 412.9,335.0 418.7,333.7 424.6,332.5 430.4,331.2 436.2,329.9 442.0,328.6 447.8,327.3 453.6,325.9 459.4,324.5 465.3,323.1 471.1,321.7 476.9,320.2 482.7,318.7 488.5,317.2 494.3,315.7 500.1,314.1 505.9,312.6 511.7,311.0 517.6,309.3 523.4,307.7 529.2,306.0 535.0,304.3 540.8,302.6 546.6,300.9 552.4,299.1 558.3,297.4 564.1,295.6 569.9,293.7 575.7,291.9 581.5,290.0 587.3,288.2 593.1,286.3 598.9,284.3 604.8,282.4 610.6,280.4 616.4,278.5 622.2,276.5 628.0,274.5 633.8,272.4 639.6,270.4 645.4,268.3 651.3,266.2 657.1,264.1 662.9,262.0 668.7,259.9 674.5,257.7 680.3,255.6 686.1,253.4 691.9,251.2 697.7,249.0 703.6,246.8 709.4,244.5 715.2,242.3 721.0,240.0 726.8,237.8 732.6,235.5 738.4,233.2 744.3,230.9 750.1,228.6 755.9,226.2 761.7,223.9 767.5,221.5 773.3,219.2 779.1,216.8 784.9,214.4 790.8,212.0 796.6,209.6 802.4,207.2 808.2,204.8 814.0,202.4 819.8,199.9 825.6,197.5 831.4,195.0 837.2,192.6 843.1,190.1 848.9,187.7 854.7,185.2 860.5,182.7 866.3,180.2 872.1,177.7 877.9,175.2 883.8,172.7 889.6,170.2 895.4,167.6 901.2,165.1 907.0,162.6 912.8,160.1 918.6,157.5 924.4,155.0 930.2,152.4 936.1,149.9 941.9,147.3 947.7,144.7 953.5,142.2 959.3,139.6 965.1,137.0 970.9,134.4 976.8,131.9 982.6,129.3 988.4,126.7 994.2,124.1 1000.0,121.5" fill="none" stroke="#ffb347" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+  <polyline points="70.0,373.9 75.8,373.7 81.6,373.5 87.4,373.3 93.3,373.0 99.1,372.8 104.9,372.6 110.7,372.3 116.5,372.0 122.3,371.8 128.1,371.5 133.9,371.2 139.8,370.9 145.6,370.6 151.4,370.3 157.2,370.0 163.0,369.6 168.8,369.3 174.6,368.9 180.4,368.6 186.3,368.2 192.1,367.8 197.9,367.4 203.7,367.0 209.5,366.5 215.3,366.1 221.1,365.7 226.9,365.2 232.7,364.7 238.6,364.2 244.4,363.7 250.2,363.2 256.0,362.7 261.8,362.1 267.6,361.5 273.4,361.0 279.3,360.4 285.1,359.8 290.9,359.1 296.7,358.5 302.5,357.8 308.3,357.2 314.1,356.5 319.9,355.8 325.8,355.0 331.6,354.3 337.4,353.5 343.2,352.7 349.0,351.9 354.8,351.1 360.6,350.3 366.4,349.4 372.3,348.6 378.1,347.7 383.9,346.7 389.7,345.8 395.5,344.9 401.3,343.9 407.1,342.9 412.9,341.9 418.7,340.8 424.6,339.8 430.4,338.7 436.2,337.6 442.0,336.5 447.8,335.4 453.6,334.2 459.4,333.1 465.3,331.9 471.1,330.6 476.9,329.4 482.7,328.2 488.5,326.9 494.3,325.6 500.1,324.3 505.9,322.9 511.7,321.6 517.6,320.2 523.4,318.8 529.2,317.4 535.0,316.0 540.8,314.5 546.6,313.1 552.4,311.6 558.3,310.1 564.1,308.6 569.9,307.0 575.7,305.5 581.5,303.9 587.3,302.3 593.1,300.7 598.9,299.1 604.8,297.4 610.6,295.8 616.4,294.1 622.2,292.4 628.0,290.7 633.8,289.0 639.6,287.2 645.4,285.5 651.3,283.7 657.1,281.9 662.9,280.2 668.7,278.4 674.5,276.5 680.3,274.7 686.1,272.9 691.9,271.0 697.7,269.1 703.6,267.3 709.4,265.4 715.2,263.5 721.0,261.6 726.8,259.6 732.6,257.7 738.4,255.8 744.3,253.8 750.1,251.9 755.9,249.9 761.7,247.9 767.5,245.9 773.3,243.9 779.1,241.9 784.9,239.9 790.8,237.9 796.6,235.8 802.4,233.8 808.2,231.8 814.0,229.7 819.8,227.6 825.6,225.6 831.4,223.5 837.2,221.4 843.1,219.3 848.9,217.2 854.7,215.1 860.5,213.0 866.3,210.9 872.1,208.8 877.9,206.7 883.8,204.6 889.6,202.5 895.4,200.3 901.2,198.2 907.0,196.0 912.8,193.9 918.6,191.7 924.4,189.6 930.2,187.4 936.1,185.3 941.9,183.1 947.7,180.9 953.5,178.8 959.3,176.6 965.1,174.4 970.9,172.2 976.8,170.0 982.6,167.8 988.4,165.7 994.2,163.5 1000.0,161.3" fill="none" stroke="#c084fc" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+  <line x1="88" y1="122" x2="118" y2="122" stroke="#36e1ff" stroke-width="3" stroke-linecap="round"/>
+  <text x="128" y="126" class="legend ink2">7 posts/week · cadence factor 1.00 · sweet spot</text>
+  <line x1="88" y1="144" x2="118" y2="144" stroke="#ffb347" stroke-width="2" stroke-linecap="round"/>
+  <text x="128" y="148" class="legend ink2">3 posts/week · cadence factor 0.87 · low cadence</text>
+  <line x1="88" y1="166" x2="118" y2="166" stroke="#c084fc" stroke-width="2" stroke-linecap="round"/>
+  <text x="128" y="170" class="legend ink2">15 posts/week · cadence factor 0.73 · dilution zone</text>
+
+  <text x="40" y="582" class="ink3 footer">Curves computed from the published CVI formula (metrics/creator-velocity-index) · bands = score interpretation table · onlyfansstatistics.com · CC BY-SA 4.0</text>
+</svg>

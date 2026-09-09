@@ -1,0 +1,552 @@
+{
+  "schema_version": "1.0.0",
+  "generated_at": "2026-07-12",
+  "dataset": {
+    "name": "OnlyFans creator listing & engagement dataset",
+    "sample_creators": 100200,
+    "directory_listings": 401727,
+    "niches_indexed": 1057,
+    "collected": "2026-06",
+    "method": "Aggregates over 100,200 unique public OnlyFans creator profiles observed across 401,727 public directory listings (1,057 niches), collected June 2026 in collaboration with our sister site bestonlyfansreviews.com.",
+    "caveat": "Listing and engagement aggregates (subscription price, free/paid status, photo/video counts, like totals). NOT earnings data — OnlyFans does not publish per-creator earnings. Directory-listed creators skew active/discoverable versus the full 4.63M registered creator base.",
+    "license": "Free editorial reuse with visible attribution to onlyfansstatistics.com."
+  },
+  "pricing": {
+    "free_share": 0.37,
+    "paid_profiles_in_sample": 62858,
+    "paid_median_usd": 9.99,
+    "paid_average_usd": 11.05,
+    "paid_p25_usd": 5,
+    "paid_p75_usd": 13,
+    "paid_p90_usd": 20,
+    "price_histogram": [
+      {
+        "bucket": "Free",
+        "profiles": 37342,
+        "share": 0.373
+      },
+      {
+        "bucket": "$0.01–4.99",
+        "profiles": 10585,
+        "share": 0.106
+      },
+      {
+        "bucket": "$5–9.99",
+        "profiles": 24633,
+        "share": 0.24600000000000002
+      },
+      {
+        "bucket": "$10–14.99",
+        "profiles": 14100,
+        "share": 0.141
+      },
+      {
+        "bucket": "$15–19.99",
+        "profiles": 6143,
+        "share": 0.061
+      },
+      {
+        "bucket": "$20–29.99",
+        "profiles": 5031,
+        "share": 0.05
+      },
+      {
+        "bucket": "$30+",
+        "profiles": 2366,
+        "share": 0.024
+      }
+    ]
+  },
+  "engagement": {
+    "likes_median": 906,
+    "likes_average": 25705,
+    "likes_p90": 49099,
+    "likes_p99": 428780,
+    "top1pct_like_share": 0.355,
+    "top10pct_like_share": 0.82,
+    "reach_buckets": [
+      {
+        "bucket": "0–1K",
+        "profiles": 50917,
+        "share": 0.508
+      },
+      {
+        "bucket": "1K–10K",
+        "profiles": 23872,
+        "share": 0.23800000000000002
+      },
+      {
+        "bucket": "10K–100K",
+        "profiles": 19921,
+        "share": 0.19899999999999998
+      },
+      {
+        "bucket": "100K–1M",
+        "profiles": 5259,
+        "share": 0.052000000000000005
+      },
+      {
+        "bucket": "1M+",
+        "profiles": 231,
+        "share": 0.002
+      }
+    ],
+    "lorenz_curve": [
+      {
+        "pop_pct": 0,
+        "like_pct": 0
+      },
+      {
+        "pop_pct": 10,
+        "like_pct": 0
+      },
+      {
+        "pop_pct": 20,
+        "like_pct": 0
+      },
+      {
+        "pop_pct": 30,
+        "like_pct": 0
+      },
+      {
+        "pop_pct": 40,
+        "like_pct": 0
+      },
+      {
+        "pop_pct": 50,
+        "like_pct": 0.2
+      },
+      {
+        "pop_pct": 60,
+        "like_pct": 0.9
+      },
+      {
+        "pop_pct": 70,
+        "like_pct": 2.5
+      },
+      {
+        "pop_pct": 80,
+        "like_pct": 6.7
+      },
+      {
+        "pop_pct": 90,
+        "like_pct": 18
+      },
+      {
+        "pop_pct": 100,
+        "like_pct": 100
+      }
+    ]
+  },
+  "content_library": {
+    "items_median": 103,
+    "items_average": 600,
+    "photos_indexed": 50459548,
+    "videos_indexed": 9702775,
+    "photo_share": 0.84
+  },
+  "niche_profiles": [
+    {
+      "niche": "Latina",
+      "slug": "latina",
+      "profiles": 614,
+      "median_price_usd": 7,
+      "free_to_follow_share": 0.44,
+      "average_likes": 61019
+    },
+    {
+      "niche": "Asian",
+      "slug": "asian",
+      "profiles": 611,
+      "median_price_usd": 7.99,
+      "free_to_follow_share": 0.45,
+      "average_likes": 64559
+    },
+    {
+      "niche": "Ebony",
+      "slug": "ebony",
+      "profiles": 609,
+      "median_price_usd": 8.99,
+      "free_to_follow_share": 0.49,
+      "average_likes": 20010
+    },
+    {
+      "niche": "Indian",
+      "slug": "indian",
+      "profiles": 324,
+      "median_price_usd": 9.99,
+      "free_to_follow_share": 0.48,
+      "average_likes": 25318
+    },
+    {
+      "niche": "Black",
+      "slug": "black",
+      "profiles": 608,
+      "median_price_usd": 9,
+      "free_to_follow_share": 0.41,
+      "average_likes": 51213
+    },
+    {
+      "niche": "Desi",
+      "slug": "desi",
+      "profiles": 173,
+      "median_price_usd": 8,
+      "free_to_follow_share": 0.58,
+      "average_likes": 53654
+    },
+    {
+      "niche": "Redhead",
+      "slug": "redhead",
+      "profiles": 612,
+      "median_price_usd": 8.24,
+      "free_to_follow_share": 0.48,
+      "average_likes": 34041
+    },
+    {
+      "niche": "Blonde",
+      "slug": "blonde",
+      "profiles": 617,
+      "median_price_usd": 8,
+      "free_to_follow_share": 0.43,
+      "average_likes": 81695
+    },
+    {
+      "niche": "Brunette",
+      "slug": "brunette",
+      "profiles": 612,
+      "median_price_usd": 8.88,
+      "free_to_follow_share": 0.51,
+      "average_likes": 63631
+    },
+    {
+      "niche": "Petite",
+      "slug": "petite",
+      "profiles": 606,
+      "median_price_usd": 6.99,
+      "free_to_follow_share": 0.39,
+      "average_likes": 85102
+    },
+    {
+      "niche": "Curvy",
+      "slug": "curvy",
+      "profiles": 620,
+      "median_price_usd": 6.5,
+      "free_to_follow_share": 0.39,
+      "average_likes": 73699
+    },
+    {
+      "niche": "BBW",
+      "slug": "bbw",
+      "profiles": 618,
+      "median_price_usd": 7,
+      "free_to_follow_share": 0.43,
+      "average_likes": 32857
+    },
+    {
+      "niche": "MILF",
+      "slug": "milf",
+      "profiles": 494,
+      "median_price_usd": 6.49,
+      "free_to_follow_share": 0.37,
+      "average_likes": 117256
+    },
+    {
+      "niche": "GILF",
+      "slug": "gilf",
+      "profiles": 127,
+      "median_price_usd": 10,
+      "free_to_follow_share": 0.5,
+      "average_likes": 23914
+    },
+    {
+      "niche": "Mature",
+      "slug": "mature",
+      "profiles": 450,
+      "median_price_usd": 8.99,
+      "free_to_follow_share": 0.42,
+      "average_likes": 10989
+    },
+    {
+      "niche": "Cosplay",
+      "slug": "cosplay",
+      "profiles": 615,
+      "median_price_usd": 7.5,
+      "free_to_follow_share": 0.37,
+      "average_likes": 88092
+    },
+    {
+      "niche": "Fitness",
+      "slug": "fitness",
+      "profiles": 619,
+      "median_price_usd": 9.99,
+      "free_to_follow_share": 0.48,
+      "average_likes": 69357
+    },
+    {
+      "niche": "Gamer Girl",
+      "slug": "gamer-girl",
+      "profiles": 612,
+      "median_price_usd": 5.5,
+      "free_to_follow_share": 0.45,
+      "average_likes": 274048
+    },
+    {
+      "niche": "Goth",
+      "slug": "goth",
+      "profiles": 619,
+      "median_price_usd": 7.99,
+      "free_to_follow_share": 0.43,
+      "average_likes": 32478
+    },
+    {
+      "niche": "Emo",
+      "slug": "emo",
+      "profiles": 287,
+      "median_price_usd": 8,
+      "free_to_follow_share": 0.56,
+      "average_likes": 36823
+    },
+    {
+      "niche": "Tattooed",
+      "slug": "tattooed",
+      "profiles": 623,
+      "median_price_usd": 9.98,
+      "free_to_follow_share": 0.39,
+      "average_likes": 39479
+    },
+    {
+      "niche": "Couples",
+      "slug": "couples",
+      "profiles": 458,
+      "median_price_usd": 9.75,
+      "free_to_follow_share": 0.49,
+      "average_likes": 60173
+    },
+    {
+      "niche": "Amateur",
+      "slug": "amateur",
+      "profiles": 609,
+      "median_price_usd": 7.69,
+      "free_to_follow_share": 0.42,
+      "average_likes": 48905
+    },
+    {
+      "niche": "Lesbian",
+      "slug": "lesbian",
+      "profiles": 586,
+      "median_price_usd": 9.75,
+      "free_to_follow_share": 0.48,
+      "average_likes": 54776
+    },
+    {
+      "niche": "Gay",
+      "slug": "gay",
+      "profiles": 524,
+      "median_price_usd": 7.99,
+      "free_to_follow_share": 0.31,
+      "average_likes": 17762
+    },
+    {
+      "niche": "Trans",
+      "slug": "trans",
+      "profiles": 567,
+      "median_price_usd": 7.5,
+      "free_to_follow_share": 0.31,
+      "average_likes": 42027
+    },
+    {
+      "niche": "Lingerie",
+      "slug": "lingerie",
+      "profiles": 624,
+      "median_price_usd": 7.5,
+      "free_to_follow_share": 0.34,
+      "average_likes": 97622
+    },
+    {
+      "niche": "Bikini",
+      "slug": "bikini",
+      "profiles": 627,
+      "median_price_usd": 10,
+      "free_to_follow_share": 0.41,
+      "average_likes": 64964
+    },
+    {
+      "niche": "Yoga",
+      "slug": "yoga",
+      "profiles": 618,
+      "median_price_usd": 9.09,
+      "free_to_follow_share": 0.55,
+      "average_likes": 55316
+    },
+    {
+      "niche": "Nurse",
+      "slug": "nurse",
+      "profiles": 617,
+      "median_price_usd": 8.99,
+      "free_to_follow_share": 0.46,
+      "average_likes": 41513
+    },
+    {
+      "niche": "Cougar",
+      "slug": "cougar",
+      "profiles": 232,
+      "median_price_usd": 9,
+      "free_to_follow_share": 0.38,
+      "average_likes": 16996
+    },
+    {
+      "niche": "Tomboy",
+      "slug": "tomboy",
+      "profiles": 127,
+      "median_price_usd": 6,
+      "free_to_follow_share": 0.82,
+      "average_likes": 88742
+    },
+    {
+      "niche": "Baddie",
+      "slug": "baddie",
+      "profiles": 691,
+      "median_price_usd": 10,
+      "free_to_follow_share": 0.36,
+      "average_likes": 32155
+    },
+    {
+      "niche": "Girl Next Door",
+      "slug": "girl-next-door",
+      "profiles": 611,
+      "median_price_usd": 6.02,
+      "free_to_follow_share": 0.39,
+      "average_likes": 162774
+    },
+    {
+      "niche": "E Girl",
+      "slug": "e-girl",
+      "profiles": 703,
+      "median_price_usd": 5.94,
+      "free_to_follow_share": 0.43,
+      "average_likes": 254229
+    },
+    {
+      "niche": "Fashion Model",
+      "slug": "fashion-model",
+      "profiles": 615,
+      "median_price_usd": 7,
+      "free_to_follow_share": 0.4,
+      "average_likes": 118837
+    },
+    {
+      "niche": "Big Tits",
+      "slug": "big-tits",
+      "profiles": 620,
+      "median_price_usd": 6,
+      "free_to_follow_share": 0.48,
+      "average_likes": 249698
+    }
+  ],
+  "creator_ages": {
+    "sample": 5525,
+    "caveat": "Self-stated ages shown on public profiles; subsample of the full dataset. Profiles may understate age for marketing.",
+    "median": 23,
+    "mean": 24.9,
+    "buckets": [
+      {
+        "bucket": "18–19",
+        "creators": 1307,
+        "share": 0.237
+      },
+      {
+        "bucket": "20–24",
+        "creators": 2157,
+        "share": 0.39
+      },
+      {
+        "bucket": "25–29",
+        "creators": 1066,
+        "share": 0.193
+      },
+      {
+        "bucket": "30–34",
+        "creators": 402,
+        "share": 0.073
+      },
+      {
+        "bucket": "35–44",
+        "creators": 406,
+        "share": 0.073
+      },
+      {
+        "bucket": "45+",
+        "creators": 187,
+        "share": 0.034
+      }
+    ]
+  },
+  "derived": {
+    "listings_per_creator": 4.01,
+    "photos_per_video": 5.2,
+    "p99_to_median_likes_multiple": 473,
+    "median_creator_profile": {
+      "subscription_usd": 9.99,
+      "total_likes": 906,
+      "content_items": 103
+    }
+  },
+  "niche_insights": {
+    "cheapest": [
+      {
+        "niche": "Gamer Girl",
+        "median_price_usd": 5.5
+      },
+      {
+        "niche": "E Girl",
+        "median_price_usd": 5.94
+      },
+      {
+        "niche": "Tomboy",
+        "median_price_usd": 6
+      }
+    ],
+    "priciest": [
+      {
+        "niche": "Baddie",
+        "median_price_usd": 10
+      },
+      {
+        "niche": "Bikini",
+        "median_price_usd": 10
+      },
+      {
+        "niche": "GILF",
+        "median_price_usd": 10
+      }
+    ],
+    "most_free_to_follow": [
+      {
+        "niche": "Tomboy",
+        "free_to_follow_share": 0.82
+      },
+      {
+        "niche": "Desi",
+        "free_to_follow_share": 0.58
+      },
+      {
+        "niche": "Emo",
+        "free_to_follow_share": 0.56
+      }
+    ],
+    "highest_avg_likes": [
+      {
+        "niche": "Gamer Girl",
+        "average_likes": 274048
+      },
+      {
+        "niche": "E Girl",
+        "average_likes": 254229
+      },
+      {
+        "niche": "Big Tits",
+        "average_likes": 249698
+      }
+    ]
+  }
+}

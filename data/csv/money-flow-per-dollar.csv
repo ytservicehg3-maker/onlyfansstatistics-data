@@ -1,0 +1,5 @@
+step,remaining_per_dollar,note
+Fan pays,1,"Subscription, PPV, tip, or DM"
+After OF 20% fee,0.8,Platform's flat 20% cut
+After payment fees ~3%,0.77,Card processing + currency
+After estimated tax (US ~30%),0.54,"Self-employment + income, varies"

@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" width="1200" height="600" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, sans-serif"><title>OnlyFans engagement curve peaking at 7 posts per week</title><desc>OnlyFans engagement curve peaking at 7 posts per week, with retention loss below 4 posts and engagement dilution above 15 posts</desc><metadata><x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="onlyfansstatistics.com embed-image-metadata"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:plus="http://ns.useplus.org/ldf/xmp/1.0/" xmlns:Iptc4xmpCore="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:cc="http://creativecommons.org/ns#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmp:CreatorTool="onlyfansstatistics.com chart builder" photoshop:Credit="onlyfansstatistics.com" photoshop:Source="https://onlyfansstatistics.com/embed/posting-cadence-engagement" xmpRights:Marked="True" xmpRights:WebStatement="https://onlyfansstatistics.com/license" Iptc4xmpExt:DigitalSourceType="http://cv.iptc.org/newscodes/digitalsourcetype/dataDrivenMedia" cc:license="https://creativecommons.org/licenses/by-sa/4.0/" cc:attributionName="onlyfansstatistics.com" cc:attributionURL="https://onlyfansstatistics.com/embed/posting-cadence-engagement"><dc:title><rdf:Alt><rdf:li xml:lang="x-default">OnlyFans engagement curve peaking at 7 posts per week</rdf:li></rdf:Alt></dc:title><dc:description><rdf:Alt><rdf:li xml:lang="x-default">OnlyFans engagement curve peaking at 7 posts per week, with retention loss below 4 posts and engagement dilution above 15 posts</rdf:li></rdf:Alt></dc:description><dc:creator><rdf:Seq><rdf:li>onlyfansstatistics.com</rdf:li></rdf:Seq></dc:creator><dc:rights><rdf:Alt><rdf:li xml:lang="x-default">© 2026 onlyfansstatistics.com · CC BY-SA 4.0</rdf:li></rdf:Alt></dc:rights><dc:subject><rdf:Bag><rdf:li>OnlyFans</rdf:li><rdf:li>OnlyFans statistics</rdf:li><rdf:li>OnlyFans posting cadence engagement</rdf:li><rdf:li>OnlyFans posting cadence vs engagement</rdf:li><rdf:li>The 7-Post Sweet Spot: OnlyFans' Optimal Posting Cadence</rdf:li><rdf:li>Free OnlyFans Stats Widgets</rdf:li><rdf:li>posting</rdf:li><rdf:li>cadence</rdf:li><rdf:li>engagement</rdf:li><rdf:li>creator economy</rdf:li><rdf:li>2026</rdf:li><rdf:li>data visualization</rdf:li></rdf:Bag></dc:subject><xmpRights:UsageTerms><rdf:Alt><rdf:li xml:lang="x-default">Free to reuse under CC BY-SA 4.0: credit onlyfansstatistics.com and link to the source page.</rdf:li></rdf:Alt></xmpRights:UsageTerms><plus:Licensor><rdf:Seq><rdf:li rdf:parseType="Resource"><plus:LicensorName>onlyfansstatistics.com</plus:LicensorName><plus:LicensorURL>https://onlyfansstatistics.com/license</plus:LicensorURL></rdf:li></rdf:Seq></plus:Licensor><Iptc4xmpCore:CreatorContactInfo rdf:parseType="Resource"><Iptc4xmpCore:CiUrlWork>https://onlyfansstatistics.com/</Iptc4xmpCore:CiUrlWork></Iptc4xmpCore:CreatorContactInfo></rdf:Description></rdf:RDF></x:xmpmeta></metadata>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a1424"/>
+      <stop offset="100%" stop-color="#0d1a2e"/>
+    </linearGradient>
+    <linearGradient id="peakFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#36e1ff" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#36e1ff" stop-opacity="0.02"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="600" fill="url(#bg)"/>
+
+  <!-- Title -->
+  <text x="60" y="55" font-size="22" font-weight="700" fill="#e8eef9">Sub retention by weekly posting cadence</text>
+  <text x="60" y="80" font-size="14" fill="#7c8aa3">% of subscribers retained at month 3 · agency creator-management panel · 2025</text>
+
+  <!-- Y-axis (retention 50% → 95%) -->
+  <!-- y maps: 95% → 125, 50% → 405. range = 280. Per 5%: 31.1 -->
+  <g font-size="12" fill="#7c8aa3" font-family="ui-monospace, monospace">
+    <text x="55" y="130" text-anchor="end">95%</text>
+    <line x1="60" y1="125" x2="1140" y2="125" stroke="#1e2d44" stroke-width="1" stroke-dasharray="2 4"/>
+    <text x="55" y="192" text-anchor="end">85%</text>
+    <line x1="60" y1="187" x2="1140" y2="187" stroke="#1e2d44" stroke-width="1" stroke-dasharray="2 4"/>
+    <text x="55" y="255" text-anchor="end">75%</text>
+    <line x1="60" y1="250" x2="1140" y2="250" stroke="#1e2d44" stroke-width="1" stroke-dasharray="2 4"/>
+    <text x="55" y="317" text-anchor="end">65%</text>
+    <line x1="60" y1="312" x2="1140" y2="312" stroke="#1e2d44" stroke-width="1" stroke-dasharray="2 4"/>
+    <text x="55" y="380" text-anchor="end">55%</text>
+    <line x1="60" y1="375" x2="1140" y2="375" stroke="#1e2d44" stroke-width="1" stroke-dasharray="2 4"/>
+    <text x="55" y="410" text-anchor="end">50%</text>
+    <line x1="60" y1="405" x2="1140" y2="405" stroke="#1e2d44" stroke-width="1"/>
+  </g>
+
+  <!-- Data: posts/week → retention%
+       1 → 58%, 3 → 74%, 5 → 86%, 7 → 91%, 9 → 88%, 11 → 82%, 13 → 74%, 15 → 67%, 18 → 58%
+       y = 405 - (val - 50) / 45 * 280 = 405 - (val-50)*6.222
+       1 → 405 - 8*6.22 = 355
+       3 → 405 - 24*6.22 = 256
+       5 → 405 - 36*6.22 = 181
+       7 → 405 - 41*6.22 = 150 (PEAK)
+       9 → 405 - 38*6.22 = 168
+       11 → 405 - 32*6.22 = 206
+       13 → 405 - 24*6.22 = 256
+       15 → 405 - 17*6.22 = 299
+       18 → 405 - 8*6.22 = 355
+       X positions: 1=160, 3=260, 5=370, 7=490, 9=620, 11=760, 13=880, 15=990, 18=1100
+  -->
+
+  <!-- Curve fill -->
+  <path d="M160,355 Q210,300 260,256 Q315,210 370,181 Q430,160 490,150 Q555,156 620,168 Q690,186 760,206 Q820,230 880,256 Q935,275 990,299 Q1045,328 1100,355 L1100,405 L160,405 Z" fill="url(#peakFill)"/>
+
+  <!-- Curve stroke -->
+  <path d="M160,355 Q210,300 260,256 Q315,210 370,181 Q430,160 490,150 Q555,156 620,168 Q690,186 760,206 Q820,230 880,256 Q935,275 990,299 Q1045,328 1100,355" fill="none" stroke="#36e1ff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Data point dots -->
+  <g>
+    <circle cx="160" cy="355" r="5" fill="#36e1ff" stroke="#0d1a2e" stroke-width="2"/>
+    <text x="160" y="343" text-anchor="middle" font-size="11" fill="#b8c5db" font-family="ui-monospace, monospace">58%</text>
+
+    <circle cx="260" cy="256" r="5" fill="#36e1ff" stroke="#0d1a2e" stroke-width="2"/>
+    <text x="260" y="244" text-anchor="middle" font-size="11" fill="#b8c5db" font-family="ui-monospace, monospace">74%</text>
+
+    <circle cx="370" cy="181" r="5" fill="#36e1ff" stroke="#0d1a2e" stroke-width="2"/>
+    <text x="370" y="169" text-anchor="middle" font-size="11" fill="#b8c5db" font-family="ui-monospace, monospace">86%</text>
+
+    <!-- Peak point: bigger, callout -->
+    <circle cx="490" cy="150" r="9" fill="#36e1ff" stroke="#0d1a2e" stroke-width="2.5"/>
+    <text x="490" y="132" text-anchor="middle" font-size="16" font-weight="800" fill="#36e1ff" font-family="ui-monospace, monospace">91%</text>
+    <text x="490" y="115" text-anchor="middle" font-size="11" font-weight="700" fill="#36e1ff" font-family="ui-monospace, monospace">PEAK</text>
+
+    <circle cx="620" cy="168" r="5" fill="#36e1ff" stroke="#0d1a2e" stroke-width="2"/>
+    <text x="620" y="156" text-anchor="middle" font-size="11" fill="#b8c5db" font-family="ui-monospace, monospace">88%</text>
+
+    <circle cx="760" cy="206" r="5" fill="#36e1ff" stroke="#0d1a2e" stroke-width="2"/>
+    <text x="760" y="194" text-anchor="middle" font-size="11" fill="#b8c5db" font-family="ui-monospace, monospace">82%</text>
+
+    <circle cx="880" cy="256" r="5" fill="#36e1ff" stroke="#0d1a2e" stroke-width="2"/>
+    <text x="880" y="244" text-anchor="middle" font-size="11" fill="#b8c5db" font-family="ui-monospace, monospace">74%</text>
+
+    <circle cx="990" cy="299" r="5" fill="#f87171" stroke="#0d1a2e" stroke-width="2"/>
+    <text x="990" y="287" text-anchor="middle" font-size="11" fill="#f87171" font-family="ui-monospace, monospace">67%</text>
+
+    <circle cx="1100" cy="355" r="5" fill="#f87171" stroke="#0d1a2e" stroke-width="2"/>
+    <text x="1100" y="343" text-anchor="middle" font-size="11" fill="#f87171" font-family="ui-monospace, monospace">58%</text>
+  </g>
+
+  <!-- Peak callout box -->
+  <g transform="translate(415, 78)">
+    <line x1="75" y1="22" x2="75" y2="36" stroke="#36e1ff" stroke-width="1.5" stroke-dasharray="2 2"/>
+  </g>
+
+  <!-- Vertical guide at 7-post peak -->
+  <line x1="490" y1="160" x2="490" y2="405" stroke="#36e1ff" stroke-width="1" stroke-dasharray="3 5" opacity="0.4"/>
+
+  <!-- X-axis labels -->
+  <g font-size="13" font-weight="600" fill="#b8c5db" font-family="ui-monospace, monospace">
+    <text x="160" y="438" text-anchor="middle">1</text>
+    <text x="260" y="438" text-anchor="middle">3</text>
+    <text x="370" y="438" text-anchor="middle">5</text>
+    <text x="490" y="438" text-anchor="middle" fill="#36e1ff">7</text>
+    <text x="620" y="438" text-anchor="middle">9</text>
+    <text x="760" y="438" text-anchor="middle">11</text>
+    <text x="880" y="438" text-anchor="middle">13</text>
+    <text x="990" y="438" text-anchor="middle">15</text>
+    <text x="1100" y="438" text-anchor="middle">18</text>
+  </g>
+  <text x="600" y="463" text-anchor="middle" font-size="12" fill="#7c8aa3" font-family="ui-monospace, monospace">POSTS PER WEEK</text>
+
+  <!-- Highlight callout: peak finding -->
+  <g transform="translate(720, 488)">
+    <rect x="0" y="0" width="430" height="80" rx="10" fill="#1e2d44" stroke="#36e1ff" stroke-width="1.5" stroke-opacity="0.5"/>
+    <text x="20" y="30" font-size="14" font-weight="600" fill="#36e1ff" font-family="ui-monospace, monospace">OPTIMAL CADENCE</text>
+    <text x="20" y="58" font-size="22" font-weight="800" fill="#36e1ff" font-family="ui-monospace, monospace">7 POSTS/WEEK</text>
+    <text x="200" y="58" font-size="12" fill="#b8c5db">91% retention · 1 post/day average</text>
+  </g>
+
+  <!-- Lower-left annotation: cliff -->
+  <g transform="translate(60, 488)">
+    <text font-size="13" font-weight="600" fill="#f87171" font-family="ui-monospace, monospace">CLIFF ABOVE 15/WEEK</text>
+    <text y="28" font-size="12" fill="#b8c5db">Above 15 posts/week, per-post engagement drops 40%</text>
+    <text y="48" font-size="12" fill="#b8c5db">and creator burnout-cliff probability rises 2.8×.</text>
+    <text y="68" font-size="12" fill="#7c8aa3">Source: agency panel + in-app analytics + self-report panel</text>
+  </g>
+
+  <!-- Bottom: attribution + branding -->
+  <text x="60" y="585" font-size="11" fill="#7c8aa3">Source: onlyfansstatistics.com analysis · 3 independent panels (agency, in-app analytics, self-report)</text>
+  <text x="1140" y="585" text-anchor="end" font-size="11" font-weight="600" fill="#36e1ff" font-family="ui-monospace, monospace">onlyfansstatistics.com/research/seven-posts-per-week</text>
+</svg>

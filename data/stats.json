@@ -1,0 +1,364 @@
+{
+  "schema_version": "1.1.0",
+  "generated_at": "2026-07-12",
+  "currency": "USD",
+  "headline": {
+    "creators_total": {
+      "value": 4634000,
+      "year": 2024,
+      "source_id": "fenix-2024-filing",
+      "label": "Creator accounts"
+    },
+    "fan_accounts_total": {
+      "value": 377500000,
+      "year": 2024,
+      "source_id": "fenix-2024-filing",
+      "label": "Fan accounts (cumulative)"
+    },
+    "gross_fan_payments_2024": {
+      "value": 7.22e9,
+      "year": 2024,
+      "source_id": "fenix-2024-filing",
+      "label": "Gross fan payments 2024"
+    },
+    "creator_payouts_2024": {
+      "value": 5.80e9,
+      "year": 2024,
+      "source_id": "fenix-2024-filing",
+      "label": "Creator payouts 2024"
+    },
+    "platform_net_revenue_2024": {
+      "value": 1.41e9,
+      "year": 2024,
+      "source_id": "fenix-2024-filing",
+      "label": "Platform net revenue 2024"
+    },
+    "pretax_profit_2024": {
+      "value": 0.684e9,
+      "year": 2024,
+      "source_id": "fenix-2024-filing",
+      "label": "Pre-tax profit 2024"
+    }
+  },
+  "corporate": {
+    "company": "Fenix International Limited",
+    "companies_house_number": "10354575",
+    "controlling_owner": "Family trust led by Yekaterina “Katie” Chudnovsky",
+    "owner_since": "2026-03-20",
+    "previous_owner": "Leonid Radvinsky (person with significant control 2018–2026; died 20 March 2026)",
+    "ceo": "Keily Blair",
+    "board_directors": [
+      "Yekaterina Chudnovsky (since 8 May 2026)",
+      "Keily Helen Blair (since 8 May 2026)",
+      "James Stuart Sagan (since 8 May 2026)",
+      "Lee David Taylor (since 17 December 2021)"
+    ],
+    "minority_stake_sale_2026": {
+      "investor": "Architect Capital",
+      "stake": 0.16,
+      "price_usd": 535000000,
+      "implied_valuation_usd": 3.15e9,
+      "announced": "2026-05-08",
+      "note": "Financed via a special-purpose vehicle backed by investors including James Packer and Sam Lessin. The ~$8B Forest Road-led sale reported in 2025 never closed.",
+      "source_id": "deal-coverage-2026"
+    },
+    "fy2025_press_reported": {
+      "operating_profit_usd": 666000000,
+      "platform_net_revenue_usd": 1.4e9,
+      "note": "Press-reported (NY Post, 8 May 2026) — not a statutory filing. FY2025 audited accounts (year ending 30 Nov 2025) are due at Companies House by 31 Aug 2026.",
+      "source_id": "deal-coverage-2026"
+    },
+    "cumulative_creator_payouts_claim": {
+      "value_usd": 25e9,
+      "note": "Company-claimed cumulative payouts to creators over 10 years (reported May 2026). Self-reported, not audited.",
+      "source_id": "deal-coverage-2026"
+    },
+    "source_id": "companies-house-2026"
+  },
+  "creators_by_year": [
+    { "year": 2019, "value": 348000 },
+    { "year": 2020, "value": 1600000 },
+    { "year": 2021, "value": 2100000 },
+    { "year": 2022, "value": 3100000 },
+    { "year": 2023, "value": 4100000 },
+    { "year": 2024, "value": 4634000 }
+  ],
+  "fans_by_year": [
+    { "year": 2019, "value": 13480000 },
+    { "year": 2020, "value": 82310000 },
+    { "year": 2021, "value": 187970000 },
+    { "year": 2022, "value": 238850000 },
+    { "year": 2023, "value": 305070000 },
+    { "year": 2024, "value": 377500000 }
+  ],
+  "gross_revenue_by_year": [
+    { "year": 2019, "value": 0.27e9 },
+    { "year": 2020, "value": 2.20e9 },
+    { "year": 2021, "value": 4.80e9 },
+    { "year": 2022, "value": 5.55e9 },
+    { "year": 2023, "value": 6.63e9 },
+    { "year": 2024, "value": 7.22e9 }
+  ],
+  "users_by_country": [
+    { "country": "United States", "code": "US", "share": 0.4137 },
+    { "country": "Germany", "code": "DE", "share": 0.0567 },
+    { "country": "United Kingdom", "code": "GB", "share": 0.0499 },
+    { "country": "Canada", "code": "CA", "share": 0.0496 },
+    { "country": "Spain", "code": "ES", "share": 0.0304 },
+    { "country": "Other", "code": "XX", "share": 0.3997 }
+  ],
+  "users_by_country_dec_2025": [
+    { "country": "United States", "code": "US", "share": 0.4896 },
+    { "country": "United Kingdom", "code": "GB", "share": 0.0597 },
+    { "country": "Mexico", "code": "MX", "share": 0.0562 },
+    { "country": "Germany", "code": "DE", "share": 0.0453 },
+    { "country": "Canada", "code": "CA", "share": 0.0448 },
+    { "country": "Other", "code": "XX", "share": 0.3044 }
+  ],
+  "users_by_gender": [
+    { "label": "Male", "share": 0.87 },
+    { "label": "Female", "share": 0.10 },
+    { "label": "Undisclosed", "share": 0.03 }
+  ],
+  "users_by_age": [
+    { "bracket": "18-24", "share": 0.2468 },
+    { "bracket": "25-34", "share": 0.3552 },
+    { "bracket": "35-44", "share": 0.1758 },
+    { "bracket": "45-54", "share": 0.1004 },
+    { "bracket": "55-64", "share": 0.0707 },
+    { "bracket": "65+",   "share": 0.0510 }
+  ],
+  "fan_creator_ratio": {
+    "current": 81.6,
+    "history": [
+      { "year": 2021, "value": 87 },
+      { "year": 2022, "value": 75 },
+      { "year": 2023, "value": 74 },
+      { "year": 2024, "value": 82 }
+    ]
+  },
+  "traffic": {
+    "data_month": "2026-06",
+    "monthly_visits_jun_2026": 360200000,
+    "mom_growth_jun_2026": 0.0355,
+    "mobile_share": 0.832,
+    "desktop_share": 0.168,
+    "mobile_share_note": "Semrush panel, June 2026 (Similarweb no longer publishes a public device split; its last public figure was 84.1% mobile, Dec 2025)",
+    "pages_per_visit": 6.00,
+    "avg_visit_duration": "05:36",
+    "bounce_rate": 0.3941,
+    "global_rank_similarweb": 87,
+    "us_rank_similarweb": 46,
+    "us_adult_category_rank": 6,
+    "prior_reference_dec_2025": {
+      "monthly_visits": 305500000,
+      "global_rank_similarweb": 102,
+      "us_rank_similarweb": 57,
+      "pages_per_visit": 5.99,
+      "mobile_share": 0.841
+    }
+  },
+  "top_spending_countries_2025": [
+    { "country": "United States", "code": "US", "value": 2.637e9 },
+    { "country": "United Kingdom", "code": "GB", "value": 0.531e9 },
+    { "country": "Canada", "code": "CA", "value": 0.355e9 },
+    { "country": "Italy", "code": "IT", "value": 0.355e9, "yoy": 0.2448 },
+    { "country": "Mexico", "code": "MX", "value": 0.291e9, "yoy": 0.1912 },
+    { "country": "France", "code": "FR", "value": 0.237e9 },
+    { "country": "Australia", "code": "AU", "value": 0.237e9 },
+    { "country": "Germany", "code": "DE", "value": 0.237e9 },
+    { "country": "Brazil", "code": "BR", "value": 0.194e9 },
+    { "country": "Spain", "code": "ES", "value": 0.194e9, "yoy": 0.2555 }
+  ],
+  "compliance_2026": {
+    "data_month": "2026-06",
+    "creator_accounts_deactivated": 26901,
+    "deactivated_breakdown": {
+      "terms_of_service": 2998,
+      "fraud_prevention": 18762,
+      "other": 5141
+    },
+    "ncmec_cybertipline_reports": 30,
+    "ncmec_suspect_media_pieces": 162,
+    "creator_applications_submitted": 147756,
+    "creator_applications_approved": 42873,
+    "total_content_posted": 66086007,
+    "content_deactivated": 17718,
+    "user_reports_tos": 5783,
+    "law_enforcement_enquiries": { "total": 111, "us": 59, "uk": 9, "rest_of_world": 43 },
+    "gdpr_data_requests": 858,
+    "dmca_takedown_requests": 1339,
+    "trend_2026": [
+      { "month": "2026-02", "accounts_deactivated": 26214, "ncmec_reports": 38 },
+      { "month": "2026-03", "accounts_deactivated": 28929, "ncmec_reports": 43 },
+      { "month": "2026-04", "accounts_deactivated": 27319, "ncmec_reports": 37 },
+      { "month": "2026-05", "accounts_deactivated": 27641, "ncmec_reports": 26 },
+      { "month": "2026-06", "accounts_deactivated": 26901, "ncmec_reports": 30 }
+    ],
+    "source_id": "of-transparency-2026"
+  },
+  "ncmec_annual": {
+    "year": 2025,
+    "cybertipline_reports_fenix": 388,
+    "note": "NCMEC official 2025 CyberTipline reports by ESP (missingkids.org)",
+    "source_id": "ncmec-2025"
+  },
+  "compliance_2025": {
+    "ncmec_reports_feb_2025": 64,
+    "creator_accounts_removed_feb_2025": 35865
+  },
+  "sources": [
+    {
+      "id": "fenix-2024-filing",
+      "name": "Fenix International Ltd — UK Companies House filing FY2024",
+      "url_hint": "Companies House public filing",
+      "primary": true
+    },
+    {
+      "id": "companies-house-2026",
+      "name": "Companies House — Fenix International Ltd PSC & officer filings (March–July 2026)",
+      "url_hint": "find-and-update.company-information.service.gov.uk/company/10354575",
+      "primary": true
+    },
+    {
+      "id": "deal-coverage-2026",
+      "name": "Press coverage of the Architect Capital minority-stake deal (NY Post, Bloomberg, Axios — 8 May 2026)",
+      "primary": false
+    },
+    { "id": "similarweb-2026", "name": "Similarweb traffic data (June 2026)", "primary": false },
+    { "id": "semrush-2026", "name": "Semrush traffic panel (June 2026, device split)", "primary": false },
+    { "id": "statista-2024", "name": "Statista", "primary": false },
+    { "id": "ncmec-2025", "name": "NCMEC CyberTipline reports", "primary": true },
+    {
+      "id": "of-transparency-2026",
+      "name": "OnlyFans Transparency Center — monthly reports through June 2026",
+      "url_hint": "onlyfans.com/transparency",
+      "primary": true
+    }
+  ],
+  "revenue_streams_estimated": [
+    { "label": "Subscriptions", "share": 0.50 },
+    { "label": "Pay-per-view", "share": 0.30 },
+    { "label": "Tips", "share": 0.15 },
+    { "label": "DM messages", "share": 0.05 }
+  ],
+  "money_flow_per_dollar": [
+    { "step": "Fan pays", "value": 1.00, "note": "Subscription, PPV, tip, or DM" },
+    { "step": "After OF 20% fee", "value": 0.80, "note": "Platform's flat 20% cut" },
+    { "step": "After payment fees ~3%", "value": 0.77, "note": "Card processing + currency" },
+    { "step": "After estimated tax (US ~30%)", "value": 0.54, "note": "Self-employment + income, varies" }
+  ],
+  "profit_margin_by_year": [
+    { "year": 2020, "revenue": 2.20, "profit": 0.061 },
+    { "year": 2021, "revenue": 4.80, "profit": 0.433 },
+    { "year": 2022, "revenue": 5.55, "profit": 0.525 },
+    { "year": 2023, "revenue": 6.63, "profit": 0.658 },
+    { "year": 2024, "revenue": 7.22, "profit": 0.684 }
+  ],
+  "timeline_milestones": [
+    { "year": 2016, "label": "Launched in London (Tim Stokely)" },
+    { "year": 2018, "label": "Fenix International majority stake" },
+    { "year": 2019, "label": "348k creators · $0.27B revenue" },
+    { "year": 2020, "label": "COVID surge: 1.6M creators" },
+    { "year": 2020, "label": "Bella Thorne $1M+ launch day" },
+    { "year": 2021, "label": "SFW pivot announced + reversed in 6 days" },
+    { "year": 2022, "label": "$5.55B revenue · 3.1M creators" },
+    { "year": 2023, "label": "$6.63B revenue · 4.1M creators" },
+    { "year": 2024, "label": "FY2024: $7.22B · 4.63M creators · 377.5M fans" },
+    { "year": 2025, "label": "UK Online Safety Act fully enforced" },
+    { "year": 2026, "label": "Owner Leonid Radvinsky dies (Mar 20) · control passes to family trust" },
+    { "year": 2026, "label": "Architect Capital buys 16% stake at $3.15B valuation (May 8)" }
+  ],
+  "top_earners_peak_monthly": [
+    { "name": "Blac Chyna", "value": 20.0, "note": "$20M / month peak (2020)" },
+    { "name": "Bella Thorne", "value": 11.0, "note": "$11M first week (2020)" },
+    { "name": "Cardi B", "value": 9.5, "note": "$9.5M / month peak" },
+    { "name": "Iggy Azalea", "value": 9.2, "note": "$9.2M / month peak" },
+    { "name": "Coco Austin", "value": 9.0, "note": "$9M / month peak" },
+    { "name": "Mia Khalifa", "value": 6.5, "note": "$6.5M / year (annualised)" },
+    { "name": "Tyga", "value": 5.0, "note": "$5M / month peak" },
+    { "name": "Sophie Rain", "value": 3.6, "note": "$3.6M / month" },
+    { "name": "Lana Rhoades", "value": 2.0, "note": "$2M / month" },
+    { "name": "Trisha Paytas", "value": 1.0, "note": "$1M / month estimated" }
+  ],
+  "income_distribution_tiers": [
+    { "tier": "Top 0.1%",   "annual_usd": 735000, "note": "~15× the top-1% figure" },
+    { "tier": "Top 1%",     "annual_usd": 49000,  "note": "Public reporting tier" },
+    { "tier": "Top 10%",    "annual_usd": 5200,   "note": "Decile, panel-derived" },
+    { "tier": "Top 25%",    "annual_usd": 1050,   "note": "Quartile" },
+    { "tier": "Median (50%)","annual_usd": 180,   "note": "Half of creators earn less" },
+    { "tier": "Bottom 50%", "annual_usd": 50,     "note": "Long-tail, often dormant" }
+  ],
+  "uk_market_2025": [
+    { "metric": "Fan accounts (UK est.)",   "value": 22500000, "format": "num" },
+    { "metric": "Gross spend (UK est.)",    "value": 531000000, "format": "usd" },
+    { "metric": "Creator accounts (UK est.)","value": 280000,   "format": "num" },
+    { "metric": "Share of platform traffic", "value": 5.97, "format": "pct" },
+    { "metric": "Share of platform creators","value": 12.0, "format": "pct" },
+    { "metric": "ARPU (UK · est.)",         "value": 23.60, "format": "usd_low" }
+  ],
+  "creators_by_country_estimated": [
+    { "country": "United States",     "share": 0.35 },
+    { "country": "United Kingdom",    "share": 0.12 },
+    { "country": "Continental Europe","share": 0.135 },
+    { "country": "Latin America",     "share": 0.11 },
+    { "country": "Asia-Pacific",      "share": 0.065 },
+    { "country": "Other / unknown",   "share": 0.22 }
+  ],
+  "niche_earnings_estimates": [
+    {
+      "niche": "Couples",
+      "median_monthly_low": 800,
+      "median_monthly_high": 4000,
+      "top_decile_monthly_low": 15000,
+      "top_decile_monthly_high": 40000,
+      "note": "Highest-earning niche on average — partner dynamic doubles audience addressable size and tip frequency.",
+      "source_tier": "Agency benchmarks (multiple independent panels, ranges triangulated)"
+    },
+    {
+      "niche": "Adult / intimate",
+      "median_monthly_low": 400,
+      "median_monthly_high": 1200,
+      "top_decile_monthly_low": 12000,
+      "top_decile_monthly_high": 25000,
+      "note": "Largest niche by creator count; 60% of creators sit here. Mean ~$1,200/mo per agency surveys.",
+      "source_tier": "Agency benchmarks · creator-tool surveys"
+    },
+    {
+      "niche": "Fitness",
+      "median_monthly_low": 300,
+      "median_monthly_high": 900,
+      "top_decile_monthly_low": 8000,
+      "top_decile_monthly_high": 15000,
+      "note": "Top fitness earner reportedly ~$8M in 2023. Top 2% capture ~80% of category revenue (steeper power law than platform avg).",
+      "source_tier": "Agency benchmarks · self-reported press"
+    },
+    {
+      "niche": "Cosplay",
+      "median_monthly_low": 200,
+      "median_monthly_high": 1500,
+      "top_decile_monthly_low": 5000,
+      "top_decile_monthly_high": 50000,
+      "note": "Highly bimodal: low-volume creators average ~$700/mo, while a handful of elite cosplay creators (Belle Delphine tier) hit $1M+/month at peak. Japan/East-Asia variant tends higher.",
+      "source_tier": "Agency benchmarks · public cosplay-creator interviews"
+    },
+    {
+      "niche": "Amateur",
+      "median_monthly_low": 150,
+      "median_monthly_high": 600,
+      "top_decile_monthly_low": 2000,
+      "top_decile_monthly_high": 8000,
+      "note": "Largest by total creator count, lowest by average. Heavy long-tail dormancy.",
+      "source_tier": "Agency benchmarks"
+    },
+    {
+      "niche": "Celebrity / influencer crossover",
+      "median_monthly_low": 50000,
+      "median_monthly_high": 500000,
+      "top_decile_monthly_low": 1000000,
+      "top_decile_monthly_high": 9500000,
+      "note": "Median is far above platform average because celebrities only join with established audiences. Cardi B, Iggy Azalea, Coco Austin all crossed $9M+/month at peak.",
+      "source_tier": "Press-cited (Forbes, Variety) · self-reported"
+    }
+  ]
+}
