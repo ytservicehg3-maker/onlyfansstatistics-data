@@ -1,40 +1,112 @@
 {
-  "schema_version": "1.1.0",
-  "generated_at": "2026-07-12",
+  "schema_version": "1.2.0",
+  "generated_at": "2026-09-27",
   "currency": "USD",
   "headline": {
     "creators_total": {
-      "value": 4634000,
-      "year": 2024,
-      "source_id": "fenix-2024-filing",
+      "value": 5063000,
+      "year": 2025,
+      "source_id": "fenix-2025-filing",
       "label": "Creator accounts"
     },
     "fan_accounts_total": {
-      "value": 377500000,
-      "year": 2024,
-      "source_id": "fenix-2024-filing",
+      "value": 437133000,
+      "year": 2025,
+      "source_id": "fenix-2025-filing",
       "label": "Fan accounts (cumulative)"
     },
+    "gross_fan_payments_2025": {
+      "value": 7843146000,
+      "year": 2025,
+      "source_id": "fenix-2025-filing",
+      "label": "Gross fan payments 2025 (gross site volume)"
+    },
+    "creator_payouts_2025": {
+      "value": 6289837000,
+      "year": 2025,
+      "source_id": "fenix-2025-filing",
+      "label": "Creator payouts 2025 (gross site volume minus platform revenue; the report rounds this to $6.2bn)"
+    },
+    "platform_net_revenue_2025": {
+      "value": 1553309000,
+      "year": 2025,
+      "source_id": "fenix-2025-filing",
+      "label": "Platform net revenue 2025"
+    },
+    "subscription_revenue_2025": {
+      "value": 422486000,
+      "year": 2025,
+      "source_id": "fenix-2025-filing",
+      "label": "Platform revenue from subscriptions 2025"
+    },
+    "non_subscription_revenue_2025": {
+      "value": 1130823000,
+      "year": 2025,
+      "source_id": "fenix-2025-filing",
+      "label": "Platform revenue from pay-per-view, tips and messages 2025"
+    },
+    "operating_profit_2025": {
+      "value": 709003000,
+      "year": 2025,
+      "source_id": "fenix-2025-filing",
+      "label": "Operating profit 2025"
+    },
+    "pretax_profit_2025": {
+      "value": 714855000,
+      "year": 2025,
+      "source_id": "fenix-2025-filing",
+      "label": "Pre-tax profit 2025"
+    },
+    "net_profit_2025": {
+      "value": 521446000,
+      "year": 2025,
+      "source_id": "fenix-2025-filing",
+      "label": "Profit after tax 2025"
+    },
+    "income_tax_2025": {
+      "value": 193409000,
+      "year": 2025,
+      "source_id": "fenix-2025-filing",
+      "label": "Income tax expense 2025"
+    },
+    "dividends_paid_2025": {
+      "value": 535000000,
+      "year": 2025,
+      "source_id": "fenix-2025-filing",
+      "label": "Dividends paid in FY2025"
+    },
+    "cash_2025": {
+      "value": 848445000,
+      "year": 2025,
+      "source_id": "fenix-2025-filing",
+      "label": "Cash at 30 November 2025"
+    },
+    "employees_2025": {
+      "value": 47,
+      "year": 2025,
+      "source_id": "fenix-2025-filing",
+      "label": "Average monthly employees 2025 (group, incl. director)"
+    },
     "gross_fan_payments_2024": {
-      "value": 7.22e9,
+      "value": 7220000000.0,
       "year": 2024,
       "source_id": "fenix-2024-filing",
       "label": "Gross fan payments 2024"
     },
     "creator_payouts_2024": {
-      "value": 5.80e9,
+      "value": 5800000000.0,
       "year": 2024,
       "source_id": "fenix-2024-filing",
       "label": "Creator payouts 2024"
     },
     "platform_net_revenue_2024": {
-      "value": 1.41e9,
+      "value": 1410000000.0,
       "year": 2024,
       "source_id": "fenix-2024-filing",
       "label": "Platform net revenue 2024"
     },
     "pretax_profit_2024": {
-      "value": 0.684e9,
+      "value": 684000000.0,
       "year": 2024,
       "source_id": "fenix-2024-filing",
       "label": "Pre-tax profit 2024"
@@ -43,7 +115,7 @@
   "corporate": {
     "company": "Fenix International Limited",
     "companies_house_number": "10354575",
-    "controlling_owner": "Family trust led by Yekaterina “Katie” Chudnovsky",
+    "controlling_owner": "LR Fenix Trust — K Chudnovsky as sole Trustee (per FY2025 accounts, note 29)",
     "owner_since": "2026-03-20",
     "previous_owner": "Leonid Radvinsky (person with significant control 2018–2026; died 20 March 2026)",
     "ceo": "Keily Blair",
@@ -57,84 +129,264 @@
       "investor": "Architect Capital",
       "stake": 0.16,
       "price_usd": 535000000,
-      "implied_valuation_usd": 3.15e9,
+      "implied_valuation_usd": 3150000000.0,
       "announced": "2026-05-08",
       "note": "Financed via a special-purpose vehicle backed by investors including James Packer and Sam Lessin. The ~$8B Forest Road-led sale reported in 2025 never closed.",
       "source_id": "deal-coverage-2026"
     },
     "fy2025_press_reported": {
       "operating_profit_usd": 666000000,
-      "platform_net_revenue_usd": 1.4e9,
-      "note": "Press-reported (NY Post, 8 May 2026) — not a statutory filing. FY2025 audited accounts (year ending 30 Nov 2025) are due at Companies House by 31 Aug 2026.",
+      "platform_net_revenue_usd": 1400000000.0,
+      "note": "Press-reported (NY Post, 8 May 2026) — superseded by the audited FY2025 accounts filed on 20 Sep 2026 (see fy2025_audited). Kept for the record: the press figures understated revenue by ~$150M.",
       "source_id": "deal-coverage-2026"
     },
     "cumulative_creator_payouts_claim": {
-      "value_usd": 25e9,
+      "value_usd": 25000000000.0,
       "note": "Company-claimed cumulative payouts to creators over 10 years (reported May 2026). Self-reported, not audited.",
       "source_id": "deal-coverage-2026"
     },
-    "source_id": "companies-house-2026"
+    "source_id": "companies-house-2026",
+    "fy2025_audited": {
+      "year_end": "2025-11-30",
+      "filed": "2026-09-20",
+      "signed": "2026-04-21",
+      "days_late": 20,
+      "gross_site_volume_usd": 7843146000,
+      "revenue_usd": 1553309000,
+      "creator_payouts_usd": 6289837000,
+      "operating_profit_usd": 709003000,
+      "pretax_profit_usd": 714855000,
+      "profit_after_tax_usd": 521446000,
+      "dividends_paid_usd": 535000000,
+      "dividends_declared_after_year_end_usd": 174000000,
+      "creator_accounts": 5063000,
+      "fan_accounts": 437133000,
+      "employees_avg": 47,
+      "revenue_by_region_usd": {
+        "usa": 965447000,
+        "uk_europe": 346771000,
+        "rest_of_world": 241091000
+      },
+      "source_id": "fenix-2025-filing"
+    }
   },
   "creators_by_year": [
-    { "year": 2019, "value": 348000 },
-    { "year": 2020, "value": 1600000 },
-    { "year": 2021, "value": 2100000 },
-    { "year": 2022, "value": 3100000 },
-    { "year": 2023, "value": 4100000 },
-    { "year": 2024, "value": 4634000 }
+    {
+      "year": 2019,
+      "value": 348000
+    },
+    {
+      "year": 2020,
+      "value": 1600000
+    },
+    {
+      "year": 2021,
+      "value": 2100000
+    },
+    {
+      "year": 2022,
+      "value": 3100000
+    },
+    {
+      "year": 2023,
+      "value": 4100000
+    },
+    {
+      "year": 2024,
+      "value": 4634000
+    },
+    {
+      "year": 2025,
+      "value": 5063000
+    }
   ],
   "fans_by_year": [
-    { "year": 2019, "value": 13480000 },
-    { "year": 2020, "value": 82310000 },
-    { "year": 2021, "value": 187970000 },
-    { "year": 2022, "value": 238850000 },
-    { "year": 2023, "value": 305070000 },
-    { "year": 2024, "value": 377500000 }
+    {
+      "year": 2019,
+      "value": 13480000
+    },
+    {
+      "year": 2020,
+      "value": 82310000
+    },
+    {
+      "year": 2021,
+      "value": 187970000
+    },
+    {
+      "year": 2022,
+      "value": 238850000
+    },
+    {
+      "year": 2023,
+      "value": 305070000
+    },
+    {
+      "year": 2024,
+      "value": 377500000
+    },
+    {
+      "year": 2025,
+      "value": 437133000
+    }
   ],
   "gross_revenue_by_year": [
-    { "year": 2019, "value": 0.27e9 },
-    { "year": 2020, "value": 2.20e9 },
-    { "year": 2021, "value": 4.80e9 },
-    { "year": 2022, "value": 5.55e9 },
-    { "year": 2023, "value": 6.63e9 },
-    { "year": 2024, "value": 7.22e9 }
+    {
+      "year": 2019,
+      "value": 270000000.0
+    },
+    {
+      "year": 2020,
+      "value": 2200000000.0
+    },
+    {
+      "year": 2021,
+      "value": 4800000000.0
+    },
+    {
+      "year": 2022,
+      "value": 5550000000.0
+    },
+    {
+      "year": 2023,
+      "value": 6630000000.0
+    },
+    {
+      "year": 2024,
+      "value": 7220000000.0
+    },
+    {
+      "year": 2025,
+      "value": 7840000000.0
+    }
   ],
   "users_by_country": [
-    { "country": "United States", "code": "US", "share": 0.4137 },
-    { "country": "Germany", "code": "DE", "share": 0.0567 },
-    { "country": "United Kingdom", "code": "GB", "share": 0.0499 },
-    { "country": "Canada", "code": "CA", "share": 0.0496 },
-    { "country": "Spain", "code": "ES", "share": 0.0304 },
-    { "country": "Other", "code": "XX", "share": 0.3997 }
+    {
+      "country": "United States",
+      "code": "US",
+      "share": 0.4137
+    },
+    {
+      "country": "Germany",
+      "code": "DE",
+      "share": 0.0567
+    },
+    {
+      "country": "United Kingdom",
+      "code": "GB",
+      "share": 0.0499
+    },
+    {
+      "country": "Canada",
+      "code": "CA",
+      "share": 0.0496
+    },
+    {
+      "country": "Spain",
+      "code": "ES",
+      "share": 0.0304
+    },
+    {
+      "country": "Other",
+      "code": "XX",
+      "share": 0.3997
+    }
   ],
   "users_by_country_dec_2025": [
-    { "country": "United States", "code": "US", "share": 0.4896 },
-    { "country": "United Kingdom", "code": "GB", "share": 0.0597 },
-    { "country": "Mexico", "code": "MX", "share": 0.0562 },
-    { "country": "Germany", "code": "DE", "share": 0.0453 },
-    { "country": "Canada", "code": "CA", "share": 0.0448 },
-    { "country": "Other", "code": "XX", "share": 0.3044 }
+    {
+      "country": "United States",
+      "code": "US",
+      "share": 0.4896
+    },
+    {
+      "country": "United Kingdom",
+      "code": "GB",
+      "share": 0.0597
+    },
+    {
+      "country": "Mexico",
+      "code": "MX",
+      "share": 0.0562
+    },
+    {
+      "country": "Germany",
+      "code": "DE",
+      "share": 0.0453
+    },
+    {
+      "country": "Canada",
+      "code": "CA",
+      "share": 0.0448
+    },
+    {
+      "country": "Other",
+      "code": "XX",
+      "share": 0.3044
+    }
   ],
   "users_by_gender": [
-    { "label": "Male", "share": 0.87 },
-    { "label": "Female", "share": 0.10 },
-    { "label": "Undisclosed", "share": 0.03 }
+    {
+      "label": "Male",
+      "share": 0.87
+    },
+    {
+      "label": "Female",
+      "share": 0.1
+    },
+    {
+      "label": "Undisclosed",
+      "share": 0.03
+    }
   ],
   "users_by_age": [
-    { "bracket": "18-24", "share": 0.2468 },
-    { "bracket": "25-34", "share": 0.3552 },
-    { "bracket": "35-44", "share": 0.1758 },
-    { "bracket": "45-54", "share": 0.1004 },
-    { "bracket": "55-64", "share": 0.0707 },
-    { "bracket": "65+",   "share": 0.0510 }
+    {
+      "bracket": "18-24",
+      "share": 0.2468
+    },
+    {
+      "bracket": "25-34",
+      "share": 0.3552
+    },
+    {
+      "bracket": "35-44",
+      "share": 0.1758
+    },
+    {
+      "bracket": "45-54",
+      "share": 0.1004
+    },
+    {
+      "bracket": "55-64",
+      "share": 0.0707
+    },
+    {
+      "bracket": "65+",
+      "share": 0.051
+    }
   ],
   "fan_creator_ratio": {
-    "current": 81.6,
+    "current": 86.3,
     "history": [
-      { "year": 2021, "value": 87 },
-      { "year": 2022, "value": 75 },
-      { "year": 2023, "value": 74 },
-      { "year": 2024, "value": 82 }
+      {
+        "year": 2021,
+        "value": 87
+      },
+      {
+        "year": 2022,
+        "value": 75
+      },
+      {
+        "year": 2023,
+        "value": 74
+      },
+      {
+        "year": 2024,
+        "value": 82
+      },
+      {
+        "year": 2025,
+        "value": 86
+      }
     ]
   },
   "traffic": {
@@ -144,7 +396,7 @@
     "mobile_share": 0.832,
     "desktop_share": 0.168,
     "mobile_share_note": "Semrush panel, June 2026 (Similarweb no longer publishes a public device split; its last public figure was 84.1% mobile, Dec 2025)",
-    "pages_per_visit": 6.00,
+    "pages_per_visit": 6.0,
     "avg_visit_duration": "05:36",
     "bounce_rate": 0.3941,
     "global_rank_similarweb": 87,
@@ -159,16 +411,59 @@
     }
   },
   "top_spending_countries_2025": [
-    { "country": "United States", "code": "US", "value": 2.637e9 },
-    { "country": "United Kingdom", "code": "GB", "value": 0.531e9 },
-    { "country": "Canada", "code": "CA", "value": 0.355e9 },
-    { "country": "Italy", "code": "IT", "value": 0.355e9, "yoy": 0.2448 },
-    { "country": "Mexico", "code": "MX", "value": 0.291e9, "yoy": 0.1912 },
-    { "country": "France", "code": "FR", "value": 0.237e9 },
-    { "country": "Australia", "code": "AU", "value": 0.237e9 },
-    { "country": "Germany", "code": "DE", "value": 0.237e9 },
-    { "country": "Brazil", "code": "BR", "value": 0.194e9 },
-    { "country": "Spain", "code": "ES", "value": 0.194e9, "yoy": 0.2555 }
+    {
+      "country": "United States",
+      "code": "US",
+      "value": 2637000000.0
+    },
+    {
+      "country": "United Kingdom",
+      "code": "GB",
+      "value": 531000000.0
+    },
+    {
+      "country": "Canada",
+      "code": "CA",
+      "value": 355000000.0
+    },
+    {
+      "country": "Italy",
+      "code": "IT",
+      "value": 355000000.0,
+      "yoy": 0.2448
+    },
+    {
+      "country": "Mexico",
+      "code": "MX",
+      "value": 291000000.0,
+      "yoy": 0.1912
+    },
+    {
+      "country": "France",
+      "code": "FR",
+      "value": 237000000.0
+    },
+    {
+      "country": "Australia",
+      "code": "AU",
+      "value": 237000000.0
+    },
+    {
+      "country": "Germany",
+      "code": "DE",
+      "value": 237000000.0
+    },
+    {
+      "country": "Brazil",
+      "code": "BR",
+      "value": 194000000.0
+    },
+    {
+      "country": "Spain",
+      "code": "ES",
+      "value": 194000000.0,
+      "yoy": 0.2555
+    }
   ],
   "compliance_2026": {
     "data_month": "2026-06",
@@ -185,15 +480,40 @@
     "total_content_posted": 66086007,
     "content_deactivated": 17718,
     "user_reports_tos": 5783,
-    "law_enforcement_enquiries": { "total": 111, "us": 59, "uk": 9, "rest_of_world": 43 },
+    "law_enforcement_enquiries": {
+      "total": 111,
+      "us": 59,
+      "uk": 9,
+      "rest_of_world": 43
+    },
     "gdpr_data_requests": 858,
     "dmca_takedown_requests": 1339,
     "trend_2026": [
-      { "month": "2026-02", "accounts_deactivated": 26214, "ncmec_reports": 38 },
-      { "month": "2026-03", "accounts_deactivated": 28929, "ncmec_reports": 43 },
-      { "month": "2026-04", "accounts_deactivated": 27319, "ncmec_reports": 37 },
-      { "month": "2026-05", "accounts_deactivated": 27641, "ncmec_reports": 26 },
-      { "month": "2026-06", "accounts_deactivated": 26901, "ncmec_reports": 30 }
+      {
+        "month": "2026-02",
+        "accounts_deactivated": 26214,
+        "ncmec_reports": 38
+      },
+      {
+        "month": "2026-03",
+        "accounts_deactivated": 28929,
+        "ncmec_reports": 43
+      },
+      {
+        "month": "2026-04",
+        "accounts_deactivated": 27319,
+        "ncmec_reports": 37
+      },
+      {
+        "month": "2026-05",
+        "accounts_deactivated": 27641,
+        "ncmec_reports": 26
+      },
+      {
+        "month": "2026-06",
+        "accounts_deactivated": 26901,
+        "ncmec_reports": 30
+      }
     ],
     "source_id": "of-transparency-2026"
   },
@@ -208,6 +528,12 @@
     "creator_accounts_removed_feb_2025": 35865
   },
   "sources": [
+    {
+      "id": "fenix-2025-filing",
+      "name": "Fenix International Ltd — UK Companies House annual filing FY2025 (year to 30 November 2025; filed 20 Sep 2026, signed 21 Apr 2026, audited by Gravita Audit II)",
+      "url_hint": "find-and-update.company-information.service.gov.uk/company/10354575/filing-history",
+      "primary": true
+    },
     {
       "id": "fenix-2024-filing",
       "name": "Fenix International Ltd — UK Companies House filing FY2024",
@@ -225,10 +551,26 @@
       "name": "Press coverage of the Architect Capital minority-stake deal (NY Post, Bloomberg, Axios — 8 May 2026)",
       "primary": false
     },
-    { "id": "similarweb-2026", "name": "Similarweb traffic data (June 2026)", "primary": false },
-    { "id": "semrush-2026", "name": "Semrush traffic panel (June 2026, device split)", "primary": false },
-    { "id": "statista-2024", "name": "Statista", "primary": false },
-    { "id": "ncmec-2025", "name": "NCMEC CyberTipline reports", "primary": true },
+    {
+      "id": "similarweb-2026",
+      "name": "Similarweb traffic data (June 2026)",
+      "primary": false
+    },
+    {
+      "id": "semrush-2026",
+      "name": "Semrush traffic panel (June 2026, device split)",
+      "primary": false
+    },
+    {
+      "id": "statista-2024",
+      "name": "Statista",
+      "primary": false
+    },
+    {
+      "id": "ncmec-2025",
+      "name": "NCMEC CyberTipline reports",
+      "primary": true
+    },
     {
       "id": "of-transparency-2026",
       "name": "OnlyFans Transparency Center — monthly reports through June 2026",
@@ -237,73 +579,268 @@
     }
   ],
   "revenue_streams_estimated": [
-    { "label": "Subscriptions", "share": 0.50 },
-    { "label": "Pay-per-view", "share": 0.30 },
-    { "label": "Tips", "share": 0.15 },
-    { "label": "DM messages", "share": 0.05 }
+    {
+      "label": "Subscriptions",
+      "share": 0.272
+    },
+    {
+      "label": "Pay-per-view, tips & messages",
+      "share": 0.728
+    }
   ],
   "money_flow_per_dollar": [
-    { "step": "Fan pays", "value": 1.00, "note": "Subscription, PPV, tip, or DM" },
-    { "step": "After OF 20% fee", "value": 0.80, "note": "Platform's flat 20% cut" },
-    { "step": "After payment fees ~3%", "value": 0.77, "note": "Card processing + currency" },
-    { "step": "After estimated tax (US ~30%)", "value": 0.54, "note": "Self-employment + income, varies" }
+    {
+      "step": "Fan pays",
+      "value": 1.0,
+      "note": "Subscription, PPV, tip, or DM"
+    },
+    {
+      "step": "After OF 20% fee",
+      "value": 0.8,
+      "note": "Platform's flat 20% cut"
+    },
+    {
+      "step": "After payment fees ~3%",
+      "value": 0.77,
+      "note": "Card processing + currency"
+    },
+    {
+      "step": "After estimated tax (US ~30%)",
+      "value": 0.54,
+      "note": "Self-employment + income, varies"
+    }
   ],
   "profit_margin_by_year": [
-    { "year": 2020, "revenue": 2.20, "profit": 0.061 },
-    { "year": 2021, "revenue": 4.80, "profit": 0.433 },
-    { "year": 2022, "revenue": 5.55, "profit": 0.525 },
-    { "year": 2023, "revenue": 6.63, "profit": 0.658 },
-    { "year": 2024, "revenue": 7.22, "profit": 0.684 }
+    {
+      "year": 2020,
+      "revenue": 2.2,
+      "profit": 0.061
+    },
+    {
+      "year": 2021,
+      "revenue": 4.8,
+      "profit": 0.433
+    },
+    {
+      "year": 2022,
+      "revenue": 5.55,
+      "profit": 0.525
+    },
+    {
+      "year": 2023,
+      "revenue": 6.63,
+      "profit": 0.658
+    },
+    {
+      "year": 2024,
+      "revenue": 7.22,
+      "profit": 0.684
+    },
+    {
+      "year": 2025,
+      "revenue": 7.84,
+      "profit": 0.715
+    }
   ],
   "timeline_milestones": [
-    { "year": 2016, "label": "Launched in London (Tim Stokely)" },
-    { "year": 2018, "label": "Fenix International majority stake" },
-    { "year": 2019, "label": "348k creators · $0.27B revenue" },
-    { "year": 2020, "label": "COVID surge: 1.6M creators" },
-    { "year": 2020, "label": "Bella Thorne $1M+ launch day" },
-    { "year": 2021, "label": "SFW pivot announced + reversed in 6 days" },
-    { "year": 2022, "label": "$5.55B revenue · 3.1M creators" },
-    { "year": 2023, "label": "$6.63B revenue · 4.1M creators" },
-    { "year": 2024, "label": "FY2024: $7.22B · 4.63M creators · 377.5M fans" },
-    { "year": 2025, "label": "UK Online Safety Act fully enforced" },
-    { "year": 2026, "label": "Owner Leonid Radvinsky dies (Mar 20) · control passes to family trust" },
-    { "year": 2026, "label": "Architect Capital buys 16% stake at $3.15B valuation (May 8)" }
+    {
+      "year": 2016,
+      "label": "Launched in London (Tim Stokely)"
+    },
+    {
+      "year": 2018,
+      "label": "Fenix International majority stake"
+    },
+    {
+      "year": 2019,
+      "label": "348k creators · $0.27B revenue"
+    },
+    {
+      "year": 2020,
+      "label": "COVID surge: 1.6M creators"
+    },
+    {
+      "year": 2020,
+      "label": "Bella Thorne $1M+ launch day"
+    },
+    {
+      "year": 2021,
+      "label": "SFW pivot announced + reversed in 6 days"
+    },
+    {
+      "year": 2022,
+      "label": "$5.55B revenue · 3.1M creators"
+    },
+    {
+      "year": 2023,
+      "label": "$6.63B revenue · 4.1M creators"
+    },
+    {
+      "year": 2024,
+      "label": "FY2024: $7.22B · 4.63M creators · 377.5M fans"
+    },
+    {
+      "year": 2025,
+      "label": "UK Online Safety Act fully enforced"
+    },
+    {
+      "year": 2025,
+      "label": "FY2025: $7.84B · 5.06M creators · 437.1M fans"
+    },
+    {
+      "year": 2026,
+      "label": "Owner Leonid Radvinsky dies (Mar 20) · control passes to family trust"
+    },
+    {
+      "year": 2026,
+      "label": "Architect Capital buys 16% stake at $3.15B valuation (May 8)"
+    },
+    {
+      "year": 2026,
+      "label": "FY2025 accounts filed 20 days late (Sep 20)"
+    }
   ],
   "top_earners_peak_monthly": [
-    { "name": "Blac Chyna", "value": 20.0, "note": "$20M / month peak (2020)" },
-    { "name": "Bella Thorne", "value": 11.0, "note": "$11M first week (2020)" },
-    { "name": "Cardi B", "value": 9.5, "note": "$9.5M / month peak" },
-    { "name": "Iggy Azalea", "value": 9.2, "note": "$9.2M / month peak" },
-    { "name": "Coco Austin", "value": 9.0, "note": "$9M / month peak" },
-    { "name": "Mia Khalifa", "value": 6.5, "note": "$6.5M / year (annualised)" },
-    { "name": "Tyga", "value": 5.0, "note": "$5M / month peak" },
-    { "name": "Sophie Rain", "value": 3.6, "note": "$3.6M / month" },
-    { "name": "Lana Rhoades", "value": 2.0, "note": "$2M / month" },
-    { "name": "Trisha Paytas", "value": 1.0, "note": "$1M / month estimated" }
+    {
+      "name": "Blac Chyna",
+      "value": 20.0,
+      "note": "$20M / month peak (2020)"
+    },
+    {
+      "name": "Bella Thorne",
+      "value": 11.0,
+      "note": "$11M first week (2020)"
+    },
+    {
+      "name": "Cardi B",
+      "value": 9.5,
+      "note": "$9.5M / month peak"
+    },
+    {
+      "name": "Iggy Azalea",
+      "value": 9.2,
+      "note": "$9.2M / month peak"
+    },
+    {
+      "name": "Coco Austin",
+      "value": 9.0,
+      "note": "$9M / month peak"
+    },
+    {
+      "name": "Mia Khalifa",
+      "value": 6.5,
+      "note": "$6.5M / year (annualised)"
+    },
+    {
+      "name": "Tyga",
+      "value": 5.0,
+      "note": "$5M / month peak"
+    },
+    {
+      "name": "Sophie Rain",
+      "value": 3.6,
+      "note": "$3.6M / month"
+    },
+    {
+      "name": "Lana Rhoades",
+      "value": 2.0,
+      "note": "$2M / month"
+    },
+    {
+      "name": "Trisha Paytas",
+      "value": 1.0,
+      "note": "$1M / month estimated"
+    }
   ],
   "income_distribution_tiers": [
-    { "tier": "Top 0.1%",   "annual_usd": 735000, "note": "~15× the top-1% figure" },
-    { "tier": "Top 1%",     "annual_usd": 49000,  "note": "Public reporting tier" },
-    { "tier": "Top 10%",    "annual_usd": 5200,   "note": "Decile, panel-derived" },
-    { "tier": "Top 25%",    "annual_usd": 1050,   "note": "Quartile" },
-    { "tier": "Median (50%)","annual_usd": 180,   "note": "Half of creators earn less" },
-    { "tier": "Bottom 50%", "annual_usd": 50,     "note": "Long-tail, often dormant" }
+    {
+      "tier": "Top 0.1%",
+      "annual_usd": 735000,
+      "note": "~15× the top-1% figure"
+    },
+    {
+      "tier": "Top 1%",
+      "annual_usd": 49000,
+      "note": "Public reporting tier"
+    },
+    {
+      "tier": "Top 10%",
+      "annual_usd": 5200,
+      "note": "Decile, panel-derived"
+    },
+    {
+      "tier": "Top 25%",
+      "annual_usd": 1050,
+      "note": "Quartile"
+    },
+    {
+      "tier": "Median (50%)",
+      "annual_usd": 180,
+      "note": "Half of creators earn less"
+    },
+    {
+      "tier": "Bottom 50%",
+      "annual_usd": 50,
+      "note": "Long-tail, often dormant"
+    }
   ],
   "uk_market_2025": [
-    { "metric": "Fan accounts (UK est.)",   "value": 22500000, "format": "num" },
-    { "metric": "Gross spend (UK est.)",    "value": 531000000, "format": "usd" },
-    { "metric": "Creator accounts (UK est.)","value": 280000,   "format": "num" },
-    { "metric": "Share of platform traffic", "value": 5.97, "format": "pct" },
-    { "metric": "Share of platform creators","value": 12.0, "format": "pct" },
-    { "metric": "ARPU (UK · est.)",         "value": 23.60, "format": "usd_low" }
+    {
+      "metric": "Fan accounts (UK est.)",
+      "value": 22500000,
+      "format": "num"
+    },
+    {
+      "metric": "Gross spend (UK est.)",
+      "value": 531000000,
+      "format": "usd"
+    },
+    {
+      "metric": "Creator accounts (UK est.)",
+      "value": 280000,
+      "format": "num"
+    },
+    {
+      "metric": "Share of platform traffic",
+      "value": 5.97,
+      "format": "pct"
+    },
+    {
+      "metric": "Share of platform creators",
+      "value": 12.0,
+      "format": "pct"
+    },
+    {
+      "metric": "ARPU (UK · est.)",
+      "value": 23.6,
+      "format": "usd_low"
+    }
   ],
   "creators_by_country_estimated": [
-    { "country": "United States",     "share": 0.35 },
-    { "country": "United Kingdom",    "share": 0.12 },
-    { "country": "Continental Europe","share": 0.135 },
-    { "country": "Latin America",     "share": 0.11 },
-    { "country": "Asia-Pacific",      "share": 0.065 },
-    { "country": "Other / unknown",   "share": 0.22 }
+    {
+      "country": "United States",
+      "share": 0.35
+    },
+    {
+      "country": "United Kingdom",
+      "share": 0.12
+    },
+    {
+      "country": "Continental Europe",
+      "share": 0.135
+    },
+    {
+      "country": "Latin America",
+      "share": 0.11
+    },
+    {
+      "country": "Asia-Pacific",
+      "share": 0.065
+    },
+    {
+      "country": "Other / unknown",
+      "share": 0.22
+    }
   ],
   "niche_earnings_estimates": [
     {
@@ -360,5 +897,225 @@
       "note": "Median is far above platform average because celebrities only join with established audiences. Cardi B, Iggy Azalea, Coco Austin all crossed $9M+/month at peak.",
       "source_tier": "Press-cited (Forbes, Variety) · self-reported"
     }
-  ]
+  ],
+  "revenue_streams_note": "Audited split of platform revenue FY2025 (Fenix International note 4: subscription $422.5M, non-subscription $1,130.8M). The platform fee is a flat 20% on every transaction type, so the split of gross fan payments is the same. FY2024: 33.3% / 66.7%.",
+  "revenue_streams_source_id": "fenix-2025-filing",
+  "fenix_filing_fy2025": {
+    "note": "Consolidated figures as filed, USD thousands unless stated. Prior year = FY2024 comparatives in the same document.",
+    "source_id": "fenix-2025-filing",
+    "income_statement": {
+      "gross_site_volume": {
+        "2025": 7843146,
+        "2024": 7215735,
+        "page": "strategic report"
+      },
+      "revenue": {
+        "2025": 1553309,
+        "2024": 1413094,
+        "note": 4
+      },
+      "revenue_subscription": {
+        "2025": 422486,
+        "2024": 470442,
+        "note": 4
+      },
+      "revenue_non_subscription": {
+        "2025": 1130823,
+        "2024": 942652,
+        "note": 4
+      },
+      "revenue_usa": {
+        "2025": 965447,
+        "2024": 909062,
+        "note": 4
+      },
+      "revenue_uk_europe": {
+        "2025": 346771,
+        "2024": 283705,
+        "note": 4
+      },
+      "revenue_rest_of_world": {
+        "2025": 241091,
+        "2024": 220327,
+        "note": 4
+      },
+      "cost_of_sales": {
+        "2025": 599001,
+        "2024": 549480
+      },
+      "gross_profit": {
+        "2025": 954308,
+        "2024": 863614
+      },
+      "administrative_expenses": {
+        "2025": 245305,
+        "2024": 197233
+      },
+      "operating_profit": {
+        "2025": 709003,
+        "2024": 666381
+      },
+      "other_gains": {
+        "2025": 0,
+        "2024": 12743,
+        "note": 8
+      },
+      "finance_income": {
+        "2025": 5852,
+        "2024": 4451,
+        "note": 9
+      },
+      "profit_before_tax": {
+        "2025": 714855,
+        "2024": 683575
+      },
+      "income_tax": {
+        "2025": 193409,
+        "2024": 163271,
+        "note": 10,
+        "uk_corporation_tax_2025": 175666,
+        "foreign_taxes_2025": 17743
+      },
+      "profit_after_tax": {
+        "2025": 521446,
+        "2024": 520304
+      },
+      "creator_payouts_stated_bn": {
+        "2025": 6.2,
+        "2024": 5.7,
+        "page": "strategic report"
+      },
+      "creator_payouts_computed_gsv_minus_revenue": {
+        "2025": 6289837,
+        "2024": 5802641
+      },
+      "platform_development_costs": {
+        "2025": 16827,
+        "2024": 15621,
+        "note": 7
+      },
+      "exchange_losses": {
+        "2025": 4334,
+        "2024": 4830,
+        "note": 7
+      }
+    },
+    "kpis": {
+      "creator_accounts_thousands": {
+        "2025": 5063,
+        "2024": 4634
+      },
+      "fan_accounts_thousands": {
+        "2025": 437133,
+        "2024": 377456
+      }
+    },
+    "balance_sheet": {
+      "cash": {
+        "2025": 848445,
+        "2024": 808083
+      },
+      "net_assets": {
+        "2025": 146916,
+        "2024": 160470
+      },
+      "trade_and_other_payables": {
+        "2025": 812369,
+        "2024": 721074,
+        "note": 17
+      },
+      "liability_to_users_in_other_payables": {
+        "2025": 546301,
+        "2024": 498742,
+        "note": 17
+      },
+      "indirect_taxes_payable": {
+        "2025": 160862,
+        "2024": 143150,
+        "note": 17
+      },
+      "sales_tax_vat_liability_and_provisions_approx": {
+        "2025": 161000,
+        "2024": 143000,
+        "note": 28
+      },
+      "trade_receivables_from_psps": {
+        "2025": 131474,
+        "2024": 114635,
+        "note": 16
+      },
+      "contract_liabilities": {
+        "2025": 16645,
+        "2024": 20061,
+        "note": 18
+      },
+      "debt": 0
+    },
+    "cash_flow": {
+      "net_cash_from_operations": {
+        "2025": 569752,
+        "2024": 591516
+      },
+      "taxes_paid": {
+        "2025": 205297
+      }
+    },
+    "dividends": {
+      "paid_in_year": {
+        "2025": 535000,
+        "2024": 497000,
+        "per_share_usd": {
+          "2025": 535,
+          "2024": 497
+        },
+        "note": 11
+      },
+      "declared_after_year_end": [
+        {
+          "date": "2026-01-16",
+          "total": 40000
+        },
+        {
+          "date": "2026-01-29",
+          "total": 40000
+        },
+        {
+          "date": "2026-02-27",
+          "total": 49000
+        },
+        {
+          "date": "2026-03-26",
+          "total": 45000
+        }
+      ],
+      "ordinary_shares": 1000000
+    },
+    "people": {
+      "employees_avg_group": {
+        "2025": 47,
+        "2024": 46,
+        "note": 5
+      },
+      "employees_avg_company": {
+        "2025": 37,
+        "2024": 36,
+        "note": 5
+      },
+      "payroll_group": {
+        "2025": 46813,
+        "2024": 45399,
+        "note": 5
+      },
+      "director_remuneration_highest_paid": {
+        "2025": 10653,
+        "2024": 9672,
+        "note": 6
+      },
+      "key_management_short_term_benefits": {
+        "2025": 24466,
+        "2024": 22012,
+        "note": 27
+      }
+    }
+  }
 }

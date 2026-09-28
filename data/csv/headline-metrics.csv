@@ -1,6 +1,18 @@
 metric,value,year,source_id,label
-creators_total,4634000,2024,fenix-2024-filing,Creator accounts
-fan_accounts_total,377500000,2024,fenix-2024-filing,Fan accounts (cumulative)
+creators_total,5063000,2025,fenix-2025-filing,Creator accounts
+fan_accounts_total,437133000,2025,fenix-2025-filing,Fan accounts (cumulative)
+gross_fan_payments_2025,7843146000,2025,fenix-2025-filing,Gross fan payments 2025 (gross site volume)
+creator_payouts_2025,6289837000,2025,fenix-2025-filing,Creator payouts 2025 (gross site volume minus platform revenue; the report rounds this to $6.2bn)
+platform_net_revenue_2025,1553309000,2025,fenix-2025-filing,Platform net revenue 2025
+subscription_revenue_2025,422486000,2025,fenix-2025-filing,Platform revenue from subscriptions 2025
+non_subscription_revenue_2025,1130823000,2025,fenix-2025-filing,"Platform revenue from pay-per-view, tips and messages 2025"
+operating_profit_2025,709003000,2025,fenix-2025-filing,Operating profit 2025
+pretax_profit_2025,714855000,2025,fenix-2025-filing,Pre-tax profit 2025
+net_profit_2025,521446000,2025,fenix-2025-filing,Profit after tax 2025
+income_tax_2025,193409000,2025,fenix-2025-filing,Income tax expense 2025
+dividends_paid_2025,535000000,2025,fenix-2025-filing,Dividends paid in FY2025
+cash_2025,848445000,2025,fenix-2025-filing,Cash at 30 November 2025
+employees_2025,47,2025,fenix-2025-filing,"Average monthly employees 2025 (group, incl. director)"
 gross_fan_payments_2024,7220000000,2024,fenix-2024-filing,Gross fan payments 2024
 creator_payouts_2024,5800000000,2024,fenix-2024-filing,Creator payouts 2024
 platform_net_revenue_2024,1410000000,2024,fenix-2024-filing,Platform net revenue 2024

@@ -2,22 +2,22 @@
 
 Machine-readable data and 39 ready-made charts behind **[onlyfansstatistics.com](https://onlyfansstatistics.com)**, the independent OnlyFans data hub. Everything here is free to reuse under **CC BY-SA 4.0** — credit *onlyfansstatistics.com* and link back.
 
-| Headline (FY2024, audited) | Value |
-|---|---|
-| Gross fan payments | $7.22B |
-| Creator payouts | $5.80B |
-| Platform net revenue | $1.41B |
-| Pre-tax profit | $684M |
-| Creator accounts | 4,634,000 |
-| Fan accounts (cumulative) | 377,500,000 |
+| Headline (FY2025, audited) | Value | FY2024 |
+|---|---|---|
+| Gross fan payments | $7.84B | $7.22B |
+| Creator payouts | $6.29B | $5.80B |
+| Platform net revenue | $1.55B | $1.41B |
+| Pre-tax profit | $715M | $684M |
+| Creator accounts | 5,063,000 | 4,634,000 |
+| Fan accounts (cumulative) | 437,100,000 | 377,500,000 |
 
-Source: Fenix International Ltd, FY2024 accounts filed with UK Companies House (company no. 10354575). FY2025 accounts are overdue since 1 September 2026 — the site tracks the filing live at [/onlyfans-annual-report](https://onlyfansstatistics.com/onlyfans-annual-report).
+Source: Fenix International Ltd, FY2025 accounts (year to 30 November 2025) filed with UK Companies House (company no. 10354575) on 20 September 2026 and released on 27 September 2026; FY2024 from the previous filing. Analysis and source tables: [/onlyfans-annual-report](https://onlyfansstatistics.com/onlyfans-annual-report).
 
 ## What is in this repository
 
 | Path | Content |
 |---|---|
-| `data/stats.json` | Platform-wide figures: revenue, creators, fans, geography, demographics, corporate structure, compliance reports, timeline (schema 1.1.0, generated 2026-07-12) |
+| `data/stats.json` | Platform-wide figures: revenue, creators, fans, geography, demographics, corporate structure, compliance reports, timeline (schema 1.2.0, generated 2026-09-27) |
 | `data/creator-stats.json` | Creator listing & engagement dataset: 100,200 public profiles across 1,057 niches, collected 2026-06 with [bestonlyfansreviews.com](https://bestonlyfansreviews.com) — pricing, reach, content library, 37 curated niche profiles, creator ages |
 | `data/csv/` | 18 CSV exports of the tables above |
 | `charts/` | 39 SVG charts (1200 px, dark theme, licence metadata embedded) |
@@ -74,7 +74,7 @@ Every chart also exists as an embeddable widget with a live attribution footer �
 
 ## Sources
 
-- Fenix International Ltd — UK Companies House filing FY2024
+- Fenix International Ltd — UK Companies House filings FY2025 (released 27 September 2026) and FY2024
 - Companies House — Fenix International Ltd PSC & officer filings (March–July 2026)
 - Press coverage of the Architect Capital minority-stake deal (NY Post, Bloomberg, Axios — 8 May 2026)
 - Similarweb traffic data (June 2026)
@@ -88,11 +88,11 @@ Full sourcing notes: [onlyfansstatistics.com/sources](https://onlyfansstatistics
 ## Caveats
 
 - `creator-stats.json` holds listing and engagement aggregates (subscription price, free/paid status, content counts, like totals). It is **not** earnings data — OnlyFans publishes no per-creator earnings. Directory-listed creators skew active and discoverable versus the full registered creator base.
-- Estimates are labelled as such in the JSON (`*_estimated` keys, `caveat` fields). Audited figures carry the `fenix-2024-filing` source id.
+- Estimates are labelled as such in the JSON (`*_estimated` keys, `caveat` fields). Audited figures carry the `fenix-2025-filing` source id (FY2024 comparison values keep `fenix-2024-filing`).
 
 ## Updates, questions, corrections
 
-Data refreshes land here when the site updates (the FY2025 filing will be added on the day it appears at Companies House). Use **[Discussions](../../discussions)** for questions and corrections, **Issues** for errors in a file.
+Data refreshes land here when the site updates (the FY2025 filing was added on 28 September 2026, the day after Companies House released it). Use **[Discussions](../../discussions)** for questions and corrections, **Issues** for errors in a file.
 
 ## Licence
 
